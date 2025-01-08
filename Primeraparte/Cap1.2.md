@@ -124,10 +124,10 @@ A efectos de la evaluación PISA 2006, el concepto de “competencia científica
 La evaluación en las pruebas PISA considera tres subescalas (identificar temas científicos, explicar científicamente fenómenos y usar evidencia científica) y dos tipos de conocimientos (conocimientos de la ciencia y sobre la ciencia). Como muestra del nivel de alcanzado por los estudiantes del sistema educativo mexicano, la Tabla 1.2 presenta los resultados de las pruebas PISA en los ciclos 2003 y 2006. En dicha Tabla se comparan los desempeños logrados en promedio por México con los del promedio de todos los países participantes (este valor se indica como OCDE) y luego se señala el rango correspondiente como cociente del lugar ocupado por México entre el número de países participantes. Cabe observar que para el ciclo 2006 ocupamos el penúltimo lugar en ciencias, correspondiendo el primer lugar a Finlandia con 563 puntos (PISA 2006  2006: 15).
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig3.JPG?raw=true"> 
+    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/PISA.JPG"> 
 </p>
 
-**Fuente:** http://www.pisa.oecd.org/document
+**Fuente:** https://imco.org.mx/
 
 (2). Para docentes del bachillerato, según la Subsecretaría de Educación Media Superior (SEMS) de la Secretaría de Educación Pública (SEP) de México. 
 
