@@ -78,7 +78,7 @@ En 1921 se le concedió el Premio Nobel de Física a Albert Einstein "por sus se
 
 A continuación, incluimos algunos extractos de esta Conferencia. Los subtítulos en letra cursiva no vienen en el original; se insertan y numeran para describir mejor la estructura y composición de la Conferencia. Además, se introducen algunas NOTAS externas para aclarar cuestiones. Como todos los párrafos traducidos corresponden a citas textuales, el texto correspondiente se indica entre comillas. Se han introducido algunos pequeños cambios de redacción al traducir el texto del inglés al español.
 
-(1) **Aspectos considerados en la teoría de la relatividad**. 
+(1) *Aspectos considerados en la teoría de la relatividad*. 
 
 "Problema de física: ¿hay estados de movimiento físicamente preferidos en la naturaleza?" 
 
