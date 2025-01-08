@@ -54,7 +54,7 @@ Los estudiantes que ingresan al IEMS deben cumplir con los siguientes objetivos 
 Sin embargo, para cumplir con los objetivos antes señalados, los estudiantes que ingresan deberían tener o adquirir conocimientos y habilidades que corresponden, como mínimo, al nivel 1 del PISA en las tres áreas, lo cual no se cumple en la práctica. Los 20 planteles del IEMS que funcionan actualmente en la zona metropolitana tienen dos características: la ausencia de un examen de selección para ingresar y la atención a una población estudiantil en zonas marginadas donde se presentan altos índices de alcoholismo y hay violencia entre bandas. Es ilustrativo mostrar en la siguiente Tabla 2.2 las áreas identificadas con dificultades en el aprendizaje en dos poblaciones diferentes: quienes ingresan al IEMS y quienes presentaron las evaluaciones PISA. 
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig5.JPG?raw=true"> 
+    <img width="800" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig5.JPG?raw=true"> 
 </p>
 
 **Fuente:** elaboración de G. Ramírez.
@@ -64,7 +64,7 @@ Sin embargo, para cumplir con los objetivos antes señalados, los estudiantes qu
 El trabajo de la profesora Ramírez se derivó de su interés en responder a esta pregunta “¿Cómo podrían los estudiantes de mi plantel participar activamente en la solución de sus deficiencias académicas y aumentar su autonomía en el aprendizaje?” Para ello, entre los grupos asignados cada semestre la profesora eligió a dos grupos: el grupo de trabajo donde se abordarían actividades académicas mediante las estrategias de aprendizaje propuestas y el grupo de control donde se realizarían las mismas actividades académicas, pero sin trabajar directa y explícitamente con las estrategias de aprendizaje. El trabajo se realizó en los Momentos (M) de exploración, experimentación y evaluación; los correspondientes propósitos se muestran en la Tabla 2.3.
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig6.JPG?raw=true"> 
+    <img width="800" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig6.JPG?raw=true"> 
 </p>
 
 **Fuente:** elaboración de G. Ramírez.
@@ -74,7 +74,7 @@ La selección y aplicación de las estrategias de aprendizaje utilizadas se bas�
 Al respecto, Díaz-Barriga y Hernández (2002:234) establecen que: *“Las estrategias de aprendizaje pueden definirse como procedimientos (conjuntos de pasos, operaciones o habilidades) que un aprendiz emplea de forma consciente, controlada e intencional como instrumentos flexibles para aprender significativamente y solucionar problemas. La mayoría son de dominio específico y son clasificadas de diversas formas.”* Dentro de este marco teórico se propuso un modelo del proceso de aprendizaje, mismo que comprendió cuatro fases (F) a las cuales correspondieron ocho estrategias (E), tal como se indica en la siguiente Tabla 2.4.
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig7.JPG?raw=true"> 
+    <img width="800" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig7.JPG?raw=true"> 
 </p>
 
 **Fuente:** Hernández (2006: 127) y Pozo et al. (1994:180-214).
@@ -82,7 +82,7 @@ Al respecto, Díaz-Barriga y Hernández (2002:234) establecen que: *“Las estra
 El análisis de las ocho estrategias de aprendizaje antes descritas requirió del planteamiento de procesos de seguimiento y evaluación como los mostrados en la tabla 2.5. En la primera columna se indica entre paréntesis el acróstico en mayúsculas correspondiente a la pareja de estrategias de cada fase, tomando las letras iniciales de cada uno de los seis procesos que la componen.
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig8.JPG?raw=true"> 
+    <img width="800" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig8.JPG?raw=true"> 
 </p>
 
 **Fuente:** elaboración de G. Ramírez.
@@ -128,7 +128,7 @@ A continuación, presentamos dos resultados significativos del proceso de aplica
 La figura 2.1 compara los porcentajes de estudiantes que después de un semestre de instrucción resolvieron satisfactoriamente tres reactivos correspondientes a diferentes niveles del programa PISA. Esto sugiere que el uso de las estrategias de aprendizaje influye favorablemente en el aprendizaje de la física pues se logró un incremento en el desempeño de alrededor del 80% de los estudiantes del grupo de trabajo desde el nivel 0 al nivel 3 en la escala de ciencias del PISA, mientras que la proporción de estudiantes que lograron esto en el grupo de control fue del 25%.  
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig9.JPG?raw=true"> 
+    <img width="800" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig9.JPG?raw=true"> 
 </p>
 
 **Fuente:** elaboración de G. Ramírez.
@@ -138,7 +138,7 @@ La figura 2.1 compara los porcentajes de estudiantes que después de un semestre
 La figura 2.2 compara el rendimiento académico en cinco poblaciones de estudiantes un año después de realizada la etapa de evaluación. Esto significa que el uso de las estrategias de aprendizaje tiene consecuencias en la deserción, retraso o abandono de los estudiantes. 
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig10.JPG?raw=true"> 
+    <img width="800" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig10.JPG?raw=true"> 
 </p>
 
 **Fuente:** elaboración de G. Ramírez.
