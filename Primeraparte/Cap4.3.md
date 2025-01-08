@@ -50,7 +50,7 @@ En la región de **detección y medición** el electrón sale del condensador de
 
 La ecuación anterior indica que la relación $q/m$ puede calcularse si se conocen los valores de las distancias $d$, $l$ y $s$, la intensidad del campo eléctrico $E$ y la velocidad inicial $v_0$. Para calcular esta velocidad $v_0$, Thomson realizó el tercer tipo de experimento: en la región de interacción y transformación aplicó un segundo campo externo, un campo magnético $B$ en una dirección perpendicular a $E$, pero igualó las magnitudes de estas fuerzas $F_{magnético} = F_{eléctrico}$, de esta manera obtuvo que $qv_0B = qE$, de donde obtuvo $v_0 = E/B$. 
 
-Reemplazando el valor de $v_0$ en la ecuación $(\frac{qEd}{mv_0^2})= \frac{l}{s}$   resulta finalmente  $\frac{q}{m}= (\frac{E}{B^2})(\frac{l}{ds}). Este resultado significa que se puede calcular el cociente de dos cantidades muy pequeñas (la carga del electrón $q = 1.60 x 10^{-19} C$ y su masa $m = 9.11 x 10^{-31}$ kg) midiendo dos intensidades de campo ($E$ y $B$) y tres distancias ($l, d$ y $s$).
+Reemplazando el valor de $v_0$ en la ecuación $(\frac{qEd}{mv_0^2})= \frac{l}{s}$   resulta finalmente  $\frac{q}{m}= (\frac{E}{B^2})(\frac{l}{ds})$. Este resultado significa que se puede calcular el cociente de dos cantidades muy pequeñas (la carga del electrón $q = 1.60 x 10^{-19} C$ y su masa $m = 9.11 x 10^{-31}$ kg) midiendo dos intensidades de campo ($E$ y $B$) y tres distancias ($l, d$ y $s$).
 
 *Diálogos escritos por Galileo Galilei.*
 
