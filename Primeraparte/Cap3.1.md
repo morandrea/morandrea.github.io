@@ -8,11 +8,17 @@ La contextualización de los aprendizajes analiza y propone acciones educativas 
 
 ## 3.1. La contextualización del aprendizaje.
 
-Según María Moliner (1992, p. 745), el término contexto, del latín *contextus*, derivado del verbo *téxere*, tejer, se refiere al hilo o curso de un texto, escrito, relato o discurso. En consecuencia, lo que viene con el texto describe su contextura, la manera como están dispuestos los elementos de un tejido cognitivo que da forma y estructura a los textos. Ese contexto suele referirse a las condiciones materiales, humanas, sociales o culturales en que se manifiesta algún proceso o se genera algún producto. Aquí habremos de referirnos a contextos en educación, el tejido conceptual de lo que se enseña y aprende. 
+Según María Moliner (1992, p. 745), el término contexto, del latín *contextus*, derivado del verbo *téxere*, tejer, se refiere al hilo o curso de un texto, escrito, relato o discurso. En consecuencia, lo que viene con el texto describe su contextura, la manera como están dispuestos los elementos de un tejido cognitivo que da forma y estructura a los textos. Aquí habremos de referirnos a contextos en educación, el tejido conceptual de lo que se enseña y aprende.
 
-El aprendizaje contextualizado ha de ser el producto resultante de la puesta en práctica de la contextualización del aprendizaje. La contextualización del aprendizaje define tanto el entendimiento de la estructura conceptual que debe promover el aprendizaje como la aplicación de los criterios operativos apropiados para organizar los objetivos, contenidos, procedimientos y recursos requeridos para su enseñanza. La contextualización del aprendizaje cumple con las funciones de un ciclo educativo que consta de los siguientes procesos: 
+• La descripción de una *situación problematizadora* que presenta el reto cognitivo a resolver.
 
-Indagación: es la búsqueda de la información necesaria para caracterizar la situación problematizadora del contexto a partir de la descripción de los hechos que indican en qué consiste el reto cognitivo o problema por resolver. Se consideran la identificación y descripción de los objetos, agentes y fenómenos que componen el escenario en consideración. Se refiere a la transición de un lenguaje icónico preliminar al lenguaje natural y corresponde a una intención de *exploración*. 
+• La formulación de las *preguntas generadoras* que sirven para desarrollar el contexto.
+
+• El planteamiento de las *actividades de aprendizaje* con ayuda de las cuales habrán de resolverse las correspondientes preguntas generadoras. En ocasiones también suelen agregarse las actividades de evaluación correspondientes.
+
+El aprendizaje contextualizado ha de ser el producto resultante de la puesta en práctica de la contextualización del aprendizaje. La contextualización del aprendizaje define tanto el entendimiento de la estructura conceptual que debe promover el aprendizaje como la aplicación de los criterios operativos apropiados para organizar los objetivos, contenidos, procedimientos y recursos requeridos para su enseñanza. La contextualización del aprendizaje cumple con las funciones de un ciclo educativo que consta de los siguientes procesos:
+
+<u>Indagación:</u> es la búsqueda de la información necesaria para caracterizar la situación problematizadora del contexto a partir de la descripción de los hechos que indican en qué consiste el reto cognitivo o problema por resolver. Se consideran la identificación y descripción de los objetos, agentes y fenómenos que componen el escenario en consideración. Se refiere a la transición de un lenguaje icónico preliminar al lenguaje natural y corresponde a una intención de  *exploración*. 
 
 Capacitación: especificación de los conceptos en términos de los cuales se formulan las **preguntas generadoras** que sirven para desarrollar el contexto, lo cual requiere del aprendizaje de conceptos y procedimientos en cierto campo del conocimiento. Se conecta con la transición del lenguaje natural al lenguaje técnico en el cual se abordará la solución de la situación problematizadora y expresa una intención de *experimentación*.
 
