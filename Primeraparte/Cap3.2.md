@@ -24,7 +24,7 @@ A continuación, a manera de ejemplo, consideraremos un caso práctico en que se
 
 ### Preguntas de investigación (PI).
 
-“$PI_1$. ¿Qué habilidades cognitivas y metacognitivas es posible desarrollar en los estudiantes en relación con la solución de problemas?<br>
+“ $PI_1$. ¿Qué habilidades cognitivas y metacognitivas es posible desarrollar en los estudiantes en relación con la solución de problemas?<br>
 $PI_2$. ¿Cómo desarrollar determinadas habilidades metacognitivas en los estudiantes?<br>
 $PI_3$. ¿Cómo saber si se han desarrollado tales habilidades metacognitivas en los estudiantes?<br>
 $PI_4$. ¿Qué habilidades cognitivas respecto de la solución de problemas de mecánica se favorecen como consecuencia del desarrollo de habilidades metacognitivas?<br>
