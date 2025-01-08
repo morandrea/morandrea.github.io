@@ -7,7 +7,7 @@ En esta sección asociamos los propósitos de distintos textos comunicativos con
 A lo largo de la historia, los documentos escritos se han registrado en soportes materiales tales como tabletas de arcilla, papiros, pergaminos (pieles de animales curtidas) y papel (pasta de fibras vegetales tratadas). Ante la carencia de estos medios se han reutilizado pergaminos a los cuales se les borraba el texto original para sobreponer en su superficie nuevos textos. Este recurso tipográfico suele llamarse palimpsesto, palabra que proviene del griego antiguo παλίμψηστον-«grabado nuevamente», compuesto por πάλιν (palin: otra vez) y ψάειν (psaein: grabar). Un caso notable es el *Palimpsesto de Arquímedes* (Παλίμψηστο του Αρχιμήδη): en 1906 se encontró en la biblioteca de un monasterio en Constantinopla un pergamino de piel de cabra con plegarias escritas en el siglo XIII. Un cuidadoso procedimiento de restauración y estudio del palimpsesto permitió, después de borrar el texto sobrescrito, recuperar un texto original elaborado por Arquímedes (287-212 aC), mismo que contenía numerosos diagramas (Figura 4.4).
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img4.5.JPG?raw=true"> 
+    <img width="480" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img4.5.JPG?raw=true"> 
 </p>
 
 **Fuente:** https://www.culturabizarra.com/wp-content/uploads/2017/06/palimpsesto-arquimedes-02.jpg
@@ -25,7 +25,7 @@ La realización de un experimento empieza por hacerse una pregunta; después se 
 A finales del siglo XVII se consideraba que el átomo era indivisible; sin embargo, experimentos con tubos de rayos catódicos demostraron lo contrario. Al estudiar la conducción de partículas cargadas a través de gases, en 1897 J. J. Thomson realizó una secuencia de tres experimentos: el primero para entender la naturaleza eléctrica de los rayos catódicos, el segundo para determinar que su carga era negativa y el tercero para calcular la relación entre los valores de su carga y su masa. Reportó sus resultados en el artículo *Cathode Rays* publicado en *Philosophical Magazine*, 44, 293 (1897). La Figura 4.5 describe el dispositivo experimental utilizado por Thomson.
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img4.6.JPG?raw=true"> 
+    <img width="480" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img4.6.JPG?raw=true"> 
 </p>
 
 **Fuente:** Adaptación de la Fig. 2 del artículo de Thomson publicado en 1897. 
