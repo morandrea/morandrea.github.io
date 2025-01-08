@@ -86,7 +86,7 @@ Las transiciones entre estos tipos de lenguajes nos permiten definir los siguien
 
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig19.jpeg?raw=true"> 
+    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/WhatsApp%20Image%202025-01-04%20at%203.26.51%20AM.jpeg"> 
 </p>
 
 
