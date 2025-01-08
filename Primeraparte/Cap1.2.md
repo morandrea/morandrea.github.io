@@ -123,25 +123,18 @@ A efectos de la evaluación PISA 2006, el concepto de “competencia científica
 
 La evaluación en las pruebas PISA considera tres subescalas (identificar temas científicos, explicar científicamente fenómenos y usar evidencia científica) y dos tipos de conocimientos (conocimientos de la ciencia y sobre la ciencia). Como muestra del nivel de alcanzado por los estudiantes del sistema educativo mexicano, la Imagen 1.2 (a) presenta los resultados de las pruebas PISA en el ciclo 2022. En dicha gráfica se comparan los desempeños logrados en promedio por México con los del promedio de todos los países participantes (este valor se indica como OCDE). En la Imagen 1.2 (b) podemos observar el detalle de cad una de las pruebas en comparación con años anteriores.
 
-<p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/PISA.JPG"> 
-</p>
-
-<center>
-      <!-- HTML Table 1.1.1-->
-      <table width="100%">
-      <tr>
-      <th width="50%" style="text-align: center">
-      <figure markdown>
-      <img width="300" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Pisa2.JPG"> 
-      </figure>
-      </th>
-      <th width="50%" style="text-align: center">
-      <img width="300" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/PISA.JPG"> 
-      </th>
-      </tr>
-      </table>
-</center>
+<table width="100%">
+<tr>
+<th width="50%" style="text-align: center">
+<figure markdown>
+<img width="300" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Pisa2.JPG"> 
+</figure>
+</th>
+<th width="50%" style="text-align: center">
+<img width="300" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/PISA.JPG"> 
+</th>
+</tr>
+</table>
 
 **Fuente:** https://imco.org.mx/
 
