@@ -34,13 +34,13 @@ A finales del siglo XVII se consideraba que el átomo era indivisible; sin embar
 
 Las cantidades que aparecen en esta figura corresponden a lo siguiente: 
 
-	La distancia ($d$) que recorre la partícula emitida por el cátodo (el electrón) en la región de producción y preparación, cuando atraviesa las placas de un condensador en la región de interacción y transformación.
+La distancia ($d$) que recorre la partícula emitida por el cátodo (el electrón) en la región de producción y preparación, cuando atraviesa las placas de un condensador en la región de interacción y transformación.
 
-	La distancia ($s$) que separa al lugar en que el electrón sale de las placas del condensador y el lugar al cual llega en el extremo del tubo al vacío y se impacta en una pantalla fosforescente en la región de detección y medición.  
+La distancia ($s$) que separa al lugar en que el electrón sale de las placas del condensador y el lugar al cual llega en el extremo del tubo al vacío y se impacta en una pantalla fosforescente en la región de detección y medición.  
 
-	La separación ($l$) entre el punto de llegada del electrón a la pantalla cuando no se aplican campos externos y la altura a la cual llega ese electrón, después de salir de las placas del condensador y ser desviado en su trayectoria por efecto de la aplicación de campos externos durante su paso por la región de interacción y transformación.
+La separación ($l$) entre el punto de llegada del electrón a la pantalla cuando no se aplican campos externos y la altura a la cual llega ese electrón, después de salir de las placas del condensador y ser desviado en su trayectoria por efecto de la aplicación de campos externos durante su paso por la región de interacción y transformación.
 
-	El ángulo ($θ$) indica la deviación en la trayectoria del electrón al llegar a la pantalla debida a la acción de los campos externos; este ángulo se registra en la región de detección y medición y es tal que $tan(θ) = l/s$.
+El ángulo ($θ$) indica la deviación en la trayectoria del electrón al llegar a la pantalla debida a la acción de los campos externos; este ángulo se registra en la región de detección y medición y es tal que $tan(θ) = l/s$.
 
 La región de **producción y preparación** consiste en un tubo de vacío que contiene un cátodo negativo (C), un ánodo positivo (A) y una ranura (S): cuando se calienta C, se emite una radiación que es atraída por A y colimada a través de S. En esta región se definen las condiciones iniciales que indican que una partícula de masa $m$ y carga $q$ abandona el cátodo y llega al condensador con la velocidad horizontal $v_{horizontal} = v_0$ en una dirección paralela a las placas D y E del condensador.
 
