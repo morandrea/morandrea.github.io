@@ -66,7 +66,7 @@ La siguiente Tabla 1.4 presenta una comparación de las principales característ
 
 **Fuente:** Información traducida y adaptada de Constructivism Learning Theory & Philosophy of Education, de Saul McLeod, Editor-in-Chief for Simply Psychology. Accesible en https://www.simplypsychology.org/constructivism.html
 
-*Pp. Plano propositivo de actividades de apendizaje.*
+*Pp. Plano propositivo de actividades de aprendizaje.*
 
 Un docente hipotético habrá de prepara una serie de actividades de aprendizaje para un grupo de estudiantes que han terminado su bachillerato o inician una carrera técnica o científica. El docente supondrá que esos estudiantes aprenden de acuerdo con cada una de las tres teorías del aprendizaje previamente descritas. Tal docente podrá proceder como sigue:  (1) definir la secuencia de objetivos que espera satisfagan sus estudiantes, (2) describir los conocimientos de física que ellos deberán recordar y/o aprender y (3) concretar las actividades de aprendizaje por medio de las cuales espera que satisfagan los objetivos planteados inicialmente siguiendo cada una de las teorías en cuestión.
 
