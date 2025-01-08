@@ -46,6 +46,6 @@ Las transiciones entre los cuatro lenguajes antes descritos se conectan con los 
 
 **Fuente:** elaboración propia.
 
-**Figura 1.1.** Lenguajes, procesos e intenciones en la contextualización del aprendizaje.  
+**Figura 3.1.** Lenguajes, procesos e intenciones en la contextualización del aprendizaje.  
 
 Nuestros sistemas educativos necesitan tomar esto en cuenta y cambiar, hacerse más flexibles y dinámicos. Deben fortalecer la convicción de que poseer un capital estructural que determinan infraestructura y recursos, funciona sólo en la medida en que exista un capital humano que lo sabe utilizar. Como en toda organización basada en el conocimiento, la capacitación y actualización del personal son efectivas sólo sí el conocimiento se valora y promueve. Capacitarnos para saber y poder ser miembros activos y exitosos en la sociedad del conocimiento.
