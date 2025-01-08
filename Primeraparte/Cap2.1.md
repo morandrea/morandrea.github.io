@@ -95,37 +95,27 @@ Antes de familiarizar a los estudiantes con estas cuatro parejas de estrategias 
 
 Definido el modelo del proceso se propuso un procedimiento de seis pasos (P1 a P6) para dar seguimiento al grado de dominio de las estrategias, así como para detectar el nivel de aprendizaje de la asignatura; para cada paso (P) indicamos las actividades (A) correspondientes.
 
-<table width="100%">
-<tbody>
-<tr>
 P1. Efectuar un diagnóstico para ubicar el estado inicial de los estudiantes respecto de su comprensión de cada estrategia.<br>
 A1.1: Para captar la atención de los estudiantes se presentó un experimento atractivo y se solicitó la explicación individual por escrito con el fin de confrontar lo mostrado con lo esperado.<br> 
 A1.2: Se realizó una discusión guiada por el docente para analizar los pasos de la estrategia que se estaba probando; después de que los estudiantes llegaran a explicación razonable se les solicitó un reporte.<br> 
 A1.3: Se colectaron los escritos de los estudiantes para valorar el nivel en que cada estudiante describió los pasos seguidos al aplicar la estrategia en cuestión.
-</tr>
-<tr>
+***
 P2. Desarrollar instrumentos de seguimiento y autoevaluación para determinar el dominio de cada estrategia.*A2.1: Como instrumento de seguimiento se utilizó una tabla donde cada estudiante describía cómo había aplicado la estrategia en cuestión. Los propósitos eran valorar el grado de comprensión de la estrategia y detectar el tipo de aprendizajes de la asignatura en el tema de Física en que se estaba trabajando. <br>
 A2.2: Como instrumento de autoevaluación cada estudiante llenó una pequeña boleta con el enunciado de los pasos de la estrategia en cuestión y la opción a escoger entre tres niveles de dominio de cada uno de los seis pasos de la estrategia correspondiente. 
-</tr>
-<tr>
+***
 P3. Seleccionar instrumentos instruccionales de diagnóstico para valorar el aprendizaje de la asignatura.<br>
 A3.1: Se utilizaron los instrumentos de diagnóstico previamente indicados: DIAGNOSER, PISA e IB.  
-</tr>
-<tr>
+***
 P4. Diseñar un programa de actividades y una forma de colectar los datos.<br>
 A4.1: Para cada uno de los cuatro períodos mensuales de un curso semestral de dieciséis semanas se propuso un programa con las siguientes cuatro líneas de actividades: L1-Manejo eficaz del lenguaje, códigos y representaciones de la ciencia, L2-Solución de problemas, L3-Elementos de historia y epistemología y L4-Organización de la información. En el diseño de estas líneas de actividades se incorporaron recomendaciones de investigaciones educativas y del proyecto PISA. <br>
 A4.2: Cada estudiante preparó un portafolio en que integró los documentos semanales elaborados durante los cuatro periodos del ciclo escolar: los instrumentos de seguimiento y de autoevaluación, la evaluación inicial y de fin de periodo mensual y un producto de reflexión sobre la evaluación, así como la evaluación de diagnóstico de inicio de semestre sobre el dominio de las estrategias y su contraste con la evaluación de fin de semestre. Al término de cada uno de los cuatro periodos del semestre los estudiantes revisaron su portafolio con el fin de luego discutir, reflexionar y planear mejoras en su aprendizaje. 
-</tr>
-<tr>
+***
 P5. Realizar un contraste con el diagnóstico inicial, para valorar el empleo intencional de las estrategias de aprendizaje utilizadas en el curso.<br>
 A5.1: Se propusieron las mismas actividades que en el Etapa E1 pero para un experimento distinto, sin dar instrucciones detalladas para la comprensión del nuevo experimento, con el fin de verificar el empleo intencional de la correspondiente estrategia de aprendizaje.
-</tr>
-<tr>
+***
 P6. Analizar los resultados obtenidos en los puntos anteriores para obtener conclusiones acerca de la propuesta y reflexionar en relación con la evaluación de las líneas de actividades correspondientes a cada estrategia de aprendizaje.<br>
 A6.1: Se organizaron sesiones de reflexión sobre los productos desarrollados en las líneas de actividades antes descritas y sus correspondientes evaluaciones.
-</tr>
-</tbody>
-</table> 
+ 
 
 **Fuente:** elaboración de G. Ramírez.
 
