@@ -127,11 +127,11 @@ La evaluación en las pruebas PISA considera tres subescalas (identificar temas 
 <tr>
 <th width="50%" style="text-align: center">
 <figure markdown>
-<img width="300" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Pisa2.JPG"> 
+<img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Pisa2.JPG"> 
 </figure>
 </th>
 <th width="50%" style="text-align: center">
-<img width="300" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/PISA.JPG"> 
+<img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/PISA.JPG"> 
 </th>
 </tr>
 </table>
