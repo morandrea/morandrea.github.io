@@ -166,7 +166,7 @@ Según Martin Rich (1978), la formación de profesores basada en competencias/de
 En un documento elaborado por el Consejo Académico del Bachillerato (UNAM 2001: I-5, I-6 y I-8) se establece que el alumno que finalice sus estudios en la institución deberá poseer un conjunto de conocimientos, habilidades, valores y actitudes, expresados en términos de desempeños terminales. Al respecto se consideran la valoración y desarrollo de actitudes, así como los siguientes cuatro niveles cognoscitivos, de los cuales indicamos a continuación, casi en forma literal, en qué consiste cada nivel y cómo el alumno podrá evidenciar haber alcanzado el logro de este, mediante las acciones que señalamos entre paréntesis: 
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig20.jpeg?raw=true"> 
+    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/WhatsApp%20Image.jpeg"> 
 </p>
 
 (4). Para estudiantes de la licenciatura en física y de una maestría para docentes de ciencias, según el Proyecto Tuning. 
