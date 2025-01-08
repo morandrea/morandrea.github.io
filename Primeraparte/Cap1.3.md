@@ -1,4 +1,4 @@
-## Actividades de aprendizaje según las teorías conductista, cognoscitiva y constructivista.
+## 1.3 Actividades de aprendizaje según las teorías conductista, cognoscitiva y constructivista.
 
 Uno de los problemas en los que trabajaban los físicos a principios del siglo pasado consistía en explicar el color de los cuerpos al calentarse. Concretamente, para explicar la radiación del cuerpo negro se propusieron dos interpretaciones teóricas, una obtenida a partir de consideraciones termodinámicas (ley de Wien) y otra en términos de conceptos acústicos como ondas estacionarias y modos de vibración en una cavidad (ley de Rayleigh-Jeans). Ambas leyes resultaron insuficientes para explicar adecuadamente la intensidad de la radiación para todas las longitudes de onda. Tal hecho planteó una dificultad conceptual porque estas leyes no solo se derivaban de supuestos teóricos diferentes, sino que además correspondían con los valores experimentales sólo en porciones limitadas del espectro electromagnético que no eran las mismas. 
 
