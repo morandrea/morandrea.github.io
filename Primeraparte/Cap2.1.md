@@ -23,7 +23,7 @@ Desde el año de 2000 y cada tres años, una muestra de estudiantes mexicanos ha
 La siguiente Tabla 2.1 reporta los puntajes logrados por México y compara con el promedio de los puntajes alcanzados por todos los países evaluados en cada ocasión y área. Además, el lugar ocupado por México se indica como un quebrado donde el numerador es el lugar ocupado por el país y el denominador el número de países considerados. Se distinguen dos casos: un paréntesis que dice miembros indica que el total se refiere solo a los países miembros de la OCDE y un paréntesis que dice todos cuando el total corresponde a todos los países participantes, miembros y no miembros de la OCDE.    
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig4.JPG?raw=true"> 
+    <img width="800" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig4.JPG?raw=true"> 
 </p>
 
 **Fuentes:** (OCDE, 2002: 58, 85, 96), (OCDE, 2004: 9, 35, 36), (OCDE, 2004: 30, 92, 94, 277, 285, 298), (OCDE, 2007: 58, 298, 318), (OCDE, 2010: 1-2), (OCDE, 2010: 8), (OCDE, 2013: 8, 12). 
