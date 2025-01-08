@@ -20,7 +20,7 @@ La Figura 3.1a es un dibujo hecho por Isaac Newton en su libro The System of the
     <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig26.JPG?raw=true"> 
 </p>
 
-**Figura 3.1.** Salida de la nave desde la Tierra según Newton (a) y trayectoria de la nave (b), cuando sale de la órbita circunvecina a la Tierra (círculos verdes), entra a la órbita de transferencia de Hohmann (cruces en negro) y llega a la órbita circular circunvecina a Marte (círculos rojos).
+**Figura 3.2.** Salida de la nave desde la Tierra según Newton (a) y trayectoria de la nave (b), cuando sale de la órbita circunvecina a la Tierra (círculos verdes), entra a la órbita de transferencia de Hohmann (cruces en negro) y llega a la órbita circular circunvecina a Marte (círculos rojos).
 
 **Fuente:** elaboración propia a partir del dibujo de Newton y de la descripción de la trayectoria.
 
@@ -78,7 +78,7 @@ ACCIÓN 5: Para que la nave descienda en la superficie del planeta debe pasar de
     <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig28.JPG?raw=true"> 
 </p>
 
-**Figura 3.2.** Diseño de la solución del problema incluyendo Aproximaciones (A1, A2,... A7).
+**Figura 3.3.** Diseño de la solución del problema incluyendo Aproximaciones (A1, A2,... A7).
 
 **Fuente:** elaboración propia
 
@@ -112,7 +112,7 @@ La fuerza entre el Sol y la nave espacial es conservativa, por lo tanto, la ener
     <img width="200" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig29.JPG?raw=true"> 
 </p>
 
-**Figure 3.3.** Órbita de transferencia de A a B.
+**Figure 3.4.** Órbita de transferencia de A a B.
 
 **Fuente:** elaboración propia
 
