@@ -17,7 +17,7 @@ Ahora veremos un ejemplo concreto de contextualización del aprendizaje en cuyos
 La Figura 3.1a es un dibujo hecho por Isaac Newton en su libro The System of the World donde muestra cómo el tiro parabólico inicial se transforma en una serie de órbitas circunvecinas a la Tierra. La figura 3.1b indica en forma esquemática y fuera de toda escala, la trayectoria de la nave antes, durante y después de transitar por la órbita de transferencia de Hohmann. 
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/Creatividad/blob/main/Im%C3%A1genes/Fig26.JPG?raw=true"> 
+    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Fig3.3.png?raw=true"> 
 </p>
 
 **Figura 3.2.** Salida de la nave desde la Tierra según Newton (a) y trayectoria de la nave (b), cuando sale de la órbita circunvecina a la Tierra (círculos verdes), entra a la órbita de transferencia de Hohmann (cruces en negro) y llega a la órbita circular circunvecina a Marte (círculos rojos).
