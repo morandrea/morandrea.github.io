@@ -106,37 +106,37 @@ En educación el enfoque por competencias también busca promover exitosos desem
 
 (1) Para alumnos de secundaria, de acuerdo con el Programa PISA (Programme for International Student Assessment). 
 
-El Programa para la Evaluación Internacional de Alumnos desarrollado por la Organización para la Cooperación y el Desarrollo Económico (OCDE), se ha aplicado a la evaluación de competencias lectoras, en matemáticas y en ciencias, en jóvenes de 15 años que estudian secundaria (PISA 2006). A continuación, se reproduce el cuadro 1.2 de la página 23 de dicho documento, en donde se señala que: 
+El Programa para la Evaluación Internacional de Alumnos desarrollado por la Organización para la Cooperación y el Desarrollo Económico (OCDE), se ha aplicado a la evaluación de competencias relacionadas con conocimientos y habilidades en situaciones de la vida práctica. Estas evaluaciones se aplican a jóvenes de 15 años que estudian secundaria en tres áreas: matemáticas, lectura y ciencias. 
 
 <table width="100%">
 <tbody>
    <td>
-A efectos de la evaluación PISA 2006, el concepto de “competencia científica aplicado a un individuo concreto hace referencia a los siguientes aspectos:<br>
+A efectos de la evaluación en ciencias, las pruebas PISA consideran tres subescalas (identificar temas científicos, explicar científicamente fenómenos y usar evidencia científica) y dos tipos de conocimientos (conocimientos de la ciencia y sobre la ciencia). Además, el concepto de “competencia científica aplicado a un individuo concreto hace referencia a los siguientes aspectos:<br>
 - el conocimiento científico y el uso que se hace de ese conocimiento para identificar cuestiones, adquirir nuevos conocimientos, explicar fenómenos científicos y extraer conclusiones basadas en pruebas sobre temas relacionados con las ciencias;<br>
 - la comprensión de los rasgos característicos de la ciencia, entendida como una forma del conocimiento y la investigación humanos;<br>
-- la conciencia de las formas en que la ciencia y la tecnología moldean nuestro entorno material, intelectual y cultura;<br>
+- la conciencia de las formas en que la ciencia y la tecnología moldean nuestro entorno material, intelectual y cultura;<td>
 - la disposición a implicarse en asuntos relacionados con la ciencia y a comprometerse con las ideas de la ciencia como un ciudadano reflexivo.”
  </td>
    </tbody>
 </table> 
 
-
 La evaluación en las pruebas PISA considera tres subescalas (identificar temas científicos, explicar científicamente fenómenos y usar evidencia científica) y dos tipos de conocimientos (conocimientos de la ciencia y sobre la ciencia). Como muestra del nivel de alcanzado por los estudiantes del sistema educativo mexicano, la Imagen 1.2 (a) presenta los resultados de las pruebas PISA en el ciclo 2022. En dicha gráfica se comparan los desempeños logrados en promedio por México con los del promedio de todos los países participantes (este valor se indica como OCDE). En la Imagen 1.2 (b) podemos observar el detalle de cad una de las pruebas en comparación con años anteriores.
 
-<table width="100%">
-<tr>
-<th width="50%" style="text-align: center">
-<figure markdown>
-<img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Pisa2.JPG"> 
-</figure>
-</th>
-<th width="50%" style="text-align: center">
-<img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/PISA.JPG"> 
-</th>
-</tr>
-</table>
+Además, en el programa PISA se han evaluado las áreas de matemáticas y lectura. La siguiente Tabla 2.1 reporta los resultados obtenidos durante los últimos tres ciclos: el numerador es el puntaje obtenido por México y el denominador el promedio correspondiente a todos los países participantes. 
 
-**Fuente:** https://imco.org.mx/
+<p align="center" width="100%">
+    <img width="600" src=""> 
+</p>
+
+**Fuente:** datos obtenidos de
+
+De acuerdo con los datos anteriores, nuestros porcentajes han cambiado muy poco de un ciclo a otro y en todas las áreas siempre han estado por debajo de los correspondientes promedios. La mayoría de nuestros alumnos están en los niveles más bajos en relación con lo que pueden hacer y lo que no pueden hacer en cada una de las tres áreas evaluadas:
+
+En matemáticas: sólo pueden responder preguntas directas en contextos familiares, cuando toda la información está presente, pero no pueden efectuar inferencias, aún simples; pueden realizar procedimientos rutinarios con instrucciones directas en situaciones explícitas, pero no aplicar algoritmos básicos, fórmulas, procedimientos más complejos o convenciones; además, no pueden realizar acciones obvias, que se derivan de los estímulos dados, pero no son capaces de hacer razonamientos directos o hacer interpretaciones literales de resultados.
+
+En lectura: no pueden localizar varias piezas de información con más de un criterio, sólo logran identificar el tema principal, pero no la idea principal; pueden identificar relaciones, construir o aplicar categorías simples, pero no identificar información no obvia; además, no consiguen hacer comparaciones o conexiones entre el texto y el conocimiento exterior al mismo o recurrir a la experiencia personal para explicar alguna característica.
+
+En ciencias: no pueden recordar conceptos científicos simples y usar los resultados de un experimento científico representado en un cuadro de datos para respaldar una decisión personal; tampoco pueden ofrecer explicaciones posibles en contextos familiares ni extraer conclusiones basadas en investigaciones simples; además, no son capaces de razonar directamente (sin inferencias) ni de hacer interpretaciones literales de los resultados de la investigación científica o de problemas tecnológicos.
 
 (2). Para docentes del bachillerato, según la Subsecretaría de Educación Media Superior (SEMS) de la Secretaría de Educación Pública (SEP) de México. 
 
