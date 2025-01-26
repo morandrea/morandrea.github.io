@@ -125,10 +125,16 @@ La evaluación en las pruebas PISA considera tres subescalas (identificar temas 
 Además, en el programa PISA se han evaluado las áreas de matemáticas y lectura. La siguiente Tabla 2.1 reporta los resultados obtenidos durante los últimos tres ciclos: el numerador es el puntaje obtenido por México y el denominador el promedio correspondiente a todos los países participantes. 
 
 <p align="center" width="100%">
-    <img width="600" src=""> 
+    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/tabla2_1.png?raw=true"> 
 </p>
 
-**Fuente:** datos obtenidos de
+**Fuente:** datos obtenidos de:
+
+OECD (2016), PISA 2015 Results (Volume I): Excellence and Equity in Education, PISA, OECD Publishing, Paris, https://doi.org/10.1787/9789264266490-en.
+
+OECD (2019), PISA 2018 Results (Volume I): What Students Know and Can Do, PISA, OECD Publishing, Paris, https://doi.org/10.1787/5f07c754-en.
+
+OECD (2023), PISA 2022 Results (Volume I): The State of Learning and Equity in Education, PISA, OECD Publishing, Paris, https://doi.org/10.1787/53f23881-en.
 
 De acuerdo con los datos anteriores, nuestros porcentajes han cambiado muy poco de un ciclo a otro y en todas las áreas siempre han estado por debajo de los correspondientes promedios. La mayoría de nuestros alumnos están en los niveles más bajos en relación con lo que pueden hacer y lo que no pueden hacer en cada una de las tres áreas evaluadas:
 
