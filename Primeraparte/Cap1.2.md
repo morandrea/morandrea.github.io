@@ -120,8 +120,7 @@ A efectos de la evaluación en ciencias, las pruebas PISA consideran tres subesc
    </tbody>
 </table> 
 
-La evaluación en las pruebas PISA considera tres subescalas (identificar temas científicos, explicar científicamente fenómenos y usar evidencia científica) y dos tipos de conocimientos (conocimientos de la ciencia y sobre la ciencia).
-Además, en el programa PISA se han evaluado las áreas de matemáticas y lectura. La siguiente Tabla 2.1 reporta los resultados obtenidos durante los últimos tres ciclos: el numerador es el puntaje obtenido por México y el denominador el promedio correspondiente a todos los países participantes. 
+La siguiente Tabla 1.2 reporta los resultados obtenidos durante los últimos tres ciclos: el numerador es el puntaje obtenido por México y el denominador el promedio correspondiente a todos los países participantes. 
 
 <p align="center" width="100%">
     <img width="450" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/tabla2_1.png?raw=true"> 
