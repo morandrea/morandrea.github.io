@@ -114,14 +114,13 @@ El Programa para la Evaluación Internacional de Alumnos desarrollado por la Org
 A efectos de la evaluación en ciencias, las pruebas PISA consideran tres subescalas (identificar temas científicos, explicar científicamente fenómenos y usar evidencia científica) y dos tipos de conocimientos (conocimientos de la ciencia y sobre la ciencia). Además, el concepto de “competencia científica aplicado a un individuo concreto hace referencia a los siguientes aspectos:<br>
 - el conocimiento científico y el uso que se hace de ese conocimiento para identificar cuestiones, adquirir nuevos conocimientos, explicar fenómenos científicos y extraer conclusiones basadas en pruebas sobre temas relacionados con las ciencias;<br>
 - la comprensión de los rasgos característicos de la ciencia, entendida como una forma del conocimiento y la investigación humanos;<br>
-- la conciencia de las formas en que la ciencia y la tecnología moldean nuestro entorno material, intelectual y cultura;<br>
+- la conciencia de las formas en que la ciencia y la tecnología moldean nuestro entorno material, intelectual y cultural;<br>
 - la disposición a implicarse en asuntos relacionados con la ciencia y a comprometerse con las ideas de la ciencia como un ciudadano reflexivo.”
  </td>
    </tbody>
 </table> 
 
-La evaluación en las pruebas PISA considera tres subescalas (identificar temas científicos, explicar científicamente fenómenos y usar evidencia científica) y dos tipos de conocimientos (conocimientos de la ciencia y sobre la ciencia). Como muestra del nivel de alcanzado por los estudiantes del sistema educativo mexicano, la Imagen 1.2 (a) presenta los resultados de las pruebas PISA en el ciclo 2022. En dicha gráfica se comparan los desempeños logrados en promedio por México con los del promedio de todos los países participantes (este valor se indica como OCDE). En la Imagen 1.2 (b) podemos observar el detalle de cad una de las pruebas en comparación con años anteriores.
-
+La evaluación en las pruebas PISA considera tres subescalas (identificar temas científicos, explicar científicamente fenómenos y usar evidencia científica) y dos tipos de conocimientos (conocimientos de la ciencia y sobre la ciencia).
 Además, en el programa PISA se han evaluado las áreas de matemáticas y lectura. La siguiente Tabla 2.1 reporta los resultados obtenidos durante los últimos tres ciclos: el numerador es el puntaje obtenido por México y el denominador el promedio correspondiente a todos los países participantes. 
 
 <p align="center" width="100%">
