@@ -102,7 +102,7 @@ En retrospectiva, la obra de Einstein se apoyó fuertemente en un sólido aprend
 
 Ya Piaget dijo que “aprender es hacer”. Saber hacer las cosas y hacerlas bien significa ser capaz, ser competente. El concepto de competencia se empezó a aplicar por primera ocasión en el ámbito laboral y del desempeño profesional, en relación con la capacitación para desarrollar actividades según requerimientos específicos que implicaban el uso adecuado de conocimientos, habilidades y actitudes. Se buscaba que el personal de las empresas supiera desempeñarse bien en aquello en que había sido entrenado, aquello para lo cual supuestamente ya debía manifestar tener competencias. De esta manera se pretendía incrementar sus conocimientos acerca de sus funciones y su comprensión de cómo aplicarlos al nivel de competencias previsto para hacer su trabajo con la habilidad necesaria y la actitud correcta. 
 
-En educación el enfoque por competencias también busca promover exitosos desempeños terminales y desea superar el enfoque centrado en contenidos. Para tener un panorama de los propósitos de algunos programas educativos relativos al desarrollo de competencias, en esta sección describimos siete propuestas que aun cuando difieren en el contexto educativo de su aplicación, todas ellas son de interés en relación con la enseñanza y el aprendizaje de la física.  Presentamos este enfoque del aprendizaje por competencias con la intención de contraponerlo al tratamiento de los aprendizajes considerado en las dos secciones anteriores. Ciertamente ni Kepler, ni Galileo ni Einstein aprendieron pensando en desarrollar competencias.
+En educación el enfoque por competencias también busca promover exitosos desempeños terminales y desea superar el enfoque centrado en contenidos. Para tener un panorama de los propósitos de algunos programas educativos relativos al desarrollo de competencias, en esta sección describimos siete propuestas que aun cuando difieren en el contexto educativo de su aplicación, todas ellas son de interés en relación con la enseñanza y el aprendizaje de la física. Conviene aclarar que ni Kepler, ni Galileo ni Einstein aprendieron y crearon pensando en desarrollar competencias.
 
 (1) Para alumnos de secundaria, de acuerdo con el Programa PISA (Programme for International Student Assessment). 
 
@@ -123,7 +123,7 @@ A efectos de la evaluación en ciencias, las pruebas PISA consideran tres subesc
 La siguiente Tabla 1.2 reporta los resultados obtenidos durante los últimos tres ciclos: el numerador es el puntaje obtenido por México y el denominador el promedio correspondiente a todos los países participantes. 
 
 <p align="center" width="100%">
-    <img width="450" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/tabla2_1.png?raw=true"> 
+    <img width="450" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/tabla1_2.png?raw=true"> 
 </p>
 
 **Fuente:** datos obtenidos de:
@@ -167,7 +167,7 @@ Según Martin Rich (1978), la formación de profesores basada en competencias/de
 
 (3). Para alumnos del bachillerato, según el Consejo Académico del Bachillerato de la   Universidad Nacional Autónoma de México (UNAM). 
 
-En un documento elaborado por el Consejo Académico del Bachillerato (UNAM 2001: I-5, I-6 y I-8) se establece que el alumno que finalice sus estudios en la institución deberá poseer un conjunto de conocimientos, habilidades, valores y actitudes, expresados en términos de desempeños terminales. Al respecto se consideran la valoración y desarrollo de actitudes, así como los siguientes cuatro niveles cognoscitivos, de los cuales indicamos a continuación, casi en forma literal, en qué consiste cada nivel y cómo el alumno podrá evidenciar haber alcanzado el logro de este, mediante las acciones que señalamos entre paréntesis: 
+En un documento elaborado por el Consejo Académico del Bachillerato (UNAM 2001: I-5, I-6 y I-8) se establece que el alumno que finalice sus estudios en la institución deberá poseer un conjunto de conocimientos, habilidades, valores y actitudes, expresados en términos de desempeños terminales. Al respecto, consideran la valoración y desarrollo de actitudes y el desarrollo de cuatro niveles cognoscitivos asociados a los procesos de Indagación, Capacitación, Comprensión y Metacognición, mismos que ya se describieron en la sección 1.1. 
 
 <p align="center" width="100%">
     <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/WhatsApp%20Image.jpeg"> 
