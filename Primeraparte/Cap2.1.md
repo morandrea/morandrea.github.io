@@ -28,7 +28,7 @@ La siguiente Tabla 2.1 reporta los puntajes logrados por México y compara con e
 
 **Fuentes:** (OCDE, 2002: 58, 85, 96), (OCDE, 2004: 9, 35, 36), (OCDE, 2004: 30, 92, 94, 277, 285, 298), (OCDE, 2007: 58, 298, 318), (OCDE, 2010: 1-2), (OCDE, 2010: 8), (OCDE, 2013: 8, 12). 
 
-Las siguientes observaciones describen la situación de los estudiantes mexicanos respecto de las tres áreas de las pruebas PISA; indican lo que no pueden hacer y hasta donde llegan en lo que si pueden hacer.
+Las siguientes observaciones describen la situación de los estudiantes mexicanos respecto de las tres áreas de las pruebas PISA; indican lo que no pueden hacer y hasta donde llegan en lo que sí pueden hacer.
 
 •	<u>En comprensión lectora:</u> no pueden localizar varias piezas de información con más de un criterio, sólo logran identificar el tema principal, pero no la idea principal; pueden identificar relaciones, construir o aplicar categorías simples, pero no identificar información no obvia; además, no consiguen hacer comparaciones o conexiones entre el texto y el conocimiento exterior al mismo o recurrir a la experiencia personal para explicar alguna característica (Piscoya, 2004: 24). 
 
