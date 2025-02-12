@@ -85,7 +85,7 @@ Este laberinto contiene 79 estaciones debidamente numeradas y ha sido aplicado a
 
 En la primera estación del laberinto se plantea el problema a resolver: identificar la relación que existe entre la masa de un objeto y la fuerza con que es atraído hacia la Tierra.
 
-### CONTENIDO DE LA PRIMERA ESTACIÓN
+CONTENIDO DE LA PRIMERA ESTACIÓN
 
 1. ¿Cómo empezarías para encontrar la relación que existe entre la fuerza con que la Tierra atrae a los objetos y la masa de éstos?
 
