@@ -108,7 +108,10 @@ P3. Seleccionar instrumentos instruccionales de diagnóstico para valorar el apr
 A3.1: Se utilizaron los instrumentos de diagnóstico previamente indicados: DIAGNOSER, PISA e IB.  
 ***
 P4. Diseñar un programa de actividades y una forma de colectar los datos.<br>
-A4.1: Para cada uno de los cuatro períodos mensuales de un curso semestral de dieciséis semanas se propuso un programa con las siguientes cuatro líneas de actividades: L1-Manejo eficaz del lenguaje, códigos y representaciones de la ciencia, L2-Solución de problemas, L3-Elementos de historia y epistemología y L4-Organización de la información. En el diseño de estas líneas de actividades se incorporaron recomendaciones de investigaciones educativas y del proyecto PISA.<br>
+A4.1: Para cada uno de los cuatro períodos mensuales de un curso semestral de dieciséis semanas se propuso un programa con las siguientes cuatro líneas de actividades: 
+L1-Manejo eficaz del lenguaje, códigos y representaciones de la ciencia,<br> 
+L2-Solución de problemas,<br> 
+L3-Elementos de historia y epistemología y L4-Organización de la información. En el diseño de estas líneas de actividades se incorporaron recomendaciones de investigaciones educativas y del proyecto PISA.<br>
 A4.2: Cada estudiante preparó un portafolio en que integró los documentos semanales elaborados durante los cuatro periodos del ciclo escolar: los instrumentos de seguimiento y de autoevaluación, la evaluación inicial y de fin de periodo mensual y un producto de reflexión sobre la evaluación, así como la evaluación de diagnóstico de inicio de semestre sobre el dominio de las estrategias y su contraste con la evaluación de fin de semestre. Al término de cada uno de los cuatro periodos del semestre los estudiantes revisaron su portafolio con el fin de luego discutir, reflexionar y planear mejoras en su aprendizaje. 
 ***
 P5. Realizar un contraste con el diagnóstico inicial, para valorar el empleo intencional de las estrategias de aprendizaje utilizadas en el curso.<br>
