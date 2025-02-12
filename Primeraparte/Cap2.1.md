@@ -95,6 +95,7 @@ Antes de familiarizar a los estudiantes con estas cuatro parejas de estrategias 
 
 Definido el modelo del proceso se propuso un procedimiento de seis pasos (P1 a P6) para dar seguimiento al grado de dominio de las estrategias, así como para detectar el nivel de aprendizaje de la asignatura; para cada paso (P) indicamos las actividades (A) correspondientes.
 
+***
 P1. Efectuar un diagnóstico para ubicar el estado inicial de los estudiantes respecto de su comprensión de cada estrategia.<br>
 A1.1: Para captar la atención de los estudiantes se presentó un experimento atractivo y se solicitó la explicación individual por escrito con el fin de confrontar lo mostrado con lo esperado.<br> 
 A1.2: Se realizó una discusión guiada por el docente para analizar los pasos de la estrategia que se estaba probando; después de que los estudiantes llegaran a explicación razonable se les solicitó un reporte.<br> 
@@ -109,10 +110,7 @@ A3.1: Se utilizaron los instrumentos de diagnóstico previamente indicados: DIAG
 ***
 P4. Diseñar un programa de actividades y una forma de colectar los datos.<br>
 A4.1: Para cada uno de los cuatro períodos mensuales de un curso semestral de dieciséis semanas se propuso un programa con las siguientes cuatro líneas de actividades:<br> 
-L1-Manejo eficaz del lenguaje, códigos y representaciones de la ciencia,<br> 
-L2-Solución de problemas,<br> 
-L3-Elementos de historia y epistemología y<br>
-L4-Organización de la información. En el diseño de estas líneas de actividades se incorporaron recomendaciones de investigaciones educativas y del proyecto PISA.<br>
+L1-Manejo eficaz del lenguaje, códigos y representaciones de la ciencia,L2-Solución de problemas, L3-Elementos de historia y epistemología y L4-Organización de la información. En el diseño de estas líneas de actividades se incorporaron recomendaciones de investigaciones educativas y del proyecto PISA.<br>
 A4.2: Cada estudiante preparó un portafolio en que integró los documentos semanales elaborados durante los cuatro periodos del ciclo escolar: los instrumentos de seguimiento y de autoevaluación, la evaluación inicial y de fin de periodo mensual y un producto de reflexión sobre la evaluación, así como la evaluación de diagnóstico de inicio de semestre sobre el dominio de las estrategias y su contraste con la evaluación de fin de semestre. Al término de cada uno de los cuatro periodos del semestre los estudiantes revisaron su portafolio con el fin de luego discutir, reflexionar y planear mejoras en su aprendizaje. 
 ***
 P5. Realizar un contraste con el diagnóstico inicial, para valorar el empleo intencional de las estrategias de aprendizaje utilizadas en el curso.<br>
@@ -120,7 +118,7 @@ A5.1: Se propusieron las mismas actividades que en el Etapa E1 pero para un expe
 ***
 P6. Analizar los resultados obtenidos en los puntos anteriores para obtener conclusiones acerca de la propuesta y reflexionar en relación con la evaluación de las líneas de actividades correspondientes a cada estrategia de aprendizaje.<br>
 A6.1: Se organizaron sesiones de reflexión sobre los productos desarrollados en las líneas de actividades antes descritas y sus correspondientes evaluaciones.
- 
+***
 
 **Fuente:** elaboración de G. Ramírez.
 
