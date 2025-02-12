@@ -46,7 +46,7 @@ Juego 1: El dominó tradicional consta de 28 fichas rectangulares cada una de la
 
 Una vez distribuido un mismo número de fichas a cada jugador, el jugador en turno debe buscar que una de las imágenes de la ficha que pretende agregar en alguno de los extremos la hilera de fichas sea de la misma categoría que la imagen de la ficha en donde desea pegarse. En cada tirada el jugador debe explicar en términos físicos por qué ha escogido esa ficha y cómo es que las imágenes de las fichas que quedaron pegadas pertenecen a la misma categoría. Si ninguna de sus fichas tiene una imagen de la categoría de cualquiera de las imágenes en los extremos de la hilera, entonces el jugador no puede pegar su ficha a la hilera y le toca el turno al siguiente jugador. Gana el primer jugador que termina de colocar todas sus fichas.
 
-El siguiente es un ejemplo de categorías e imágenes de una de estas categorías. 
+El siguiente es un ejemplo de características e imágenes de una de estas categorías. 
 
 - Categorías de las fichas: estructura atómica, licuefacción, sublimación, vaporización, condensación, ecuación de estado y punto triple. 
 
