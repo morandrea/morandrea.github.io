@@ -110,18 +110,29 @@ F1. Descripción del problema por resolver.<br>
 
 **T**raducción: Analizar el enunciado del problema el cual consiste en la elaboración del modelo conceptual de una comunidad de aprendizaje.<br>
 
-Análisis: Explicitar las características de la comunidad de aprendizaje.<br>
+**A**nálisis: Explicitar las características de la comunidad de aprendizaje.<br>
 
 F2.  Solución a primer nivel de aproximación.<br>
 
-Diseño: Proponer un diagrama del modelo conceptual de la comunidad de aprendizaje.<br> 
+**D**iseño: Proponer un diagrama del modelo conceptual de la comunidad de aprendizaje.<br> 
 
-Implementación: Probar que el modelo conceptual es apropiado para resolver el problema.<br>
+**I**mplementación: Probar que el modelo conceptual es apropiado para resolver el problema.<br>
 
 F3.  Solución a segundo nivel de aproximación.<br>
 
-Revisión: reconsiderar las etapas anteriores y evaluar la aplicabilidad del modelo conceptual.
+**R**evisión: reconsiderar las etapas anteriores y evaluar la aplicabilidad del modelo conceptual.
 </td>
 </tr>
 </table>
 
+**Fuente:** elaboración propia.
+
+El procedimiento TADIR es un elemento de orientación en la solución de problemas. Entendemos por problema a toda pregunta concreta por resolver. En nuestro caso el problema en cuestión consiste en describir la estructura y funcionamiento de una comunidad de aprendizaje específica, mediante la elaboración de un modelo conceptual de tal comunidad de aprendizaje. Las cuatro primeras etapas del TADIR son de naturaleza cognitiva (TADI), mientras que la quinta etapa (R) es de tipo metacognitiva. Se busca que la respuesta al problema sea: correcta (se aproxime asintóticamente a la verdad), clara (implique comunicación y comprensión que no deje dudas ni confunda), completa (sea autocontenida y sin omisiones), concisa (tienda a la parsimonia, es decir, con moderación en los requerimientos) y coherente (se apoye en una construcción lógica autoconsistente). 
+
+Para resolver problemas concretos relativos al desarrollo de comunidades de aprendizaje conectamos cada una de las etapas del TADIR con los principios pedagógico-pragmáticos ($P_1$ a $P_4$) que describen las características de las comunidades de aprendizaje. La siguiente Tabla T5.2 presenta las relaciones entre los elementos que intervienen en la solución de un problema que consistente en la creación del modelo conceptual de una comunidad de aprendizaje (CA).
+
+<p align="center" width="100%">
+    <img width="600" src=""> 
+</p>
+
+**Fuente:** elaboración propia.
