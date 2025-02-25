@@ -160,10 +160,9 @@ $M_3$ -	 *Perfeccionamiento*: creación de ambientes virtuales de aprendizaje co
 
 - **D**iseño: proponer un modelo conceptual de la CA a primer nivel de aproximación, donde se identifican las tareas en las cuales participan los equipos de trabajo (ET1 a ET4) que participan en el programa.
 
-
-
-
-
+<p align="center" width="100%">
+    <img width="800" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/WhatsApp%20Image%202025-01-04%20at%203.26.51%20AM.jpeg"> 
+</p>
 
 **Fuente:** elaboración propia.
 
