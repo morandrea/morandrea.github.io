@@ -78,15 +78,50 @@ Si bien es muy importante tener en cuenta distintos tipos de conocimientos, lo p
 **Fuente:** Documento NCREL (2000).
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.1.png?raw=true"> 
+    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.2.png?raw=true"> 
 </p>
+
+**Fuente:** Documento NCREL (2000).
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.1.png?raw=true"> 
+    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.3.png?raw=true"> 
 </p>
+
+**Fuente:** Documento NCREL (2000).
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.1.png?raw=true"> 
+    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.4.png?raw=true"> 
 </p>
 
+**Fuente:** Documento NCREL (2000).
+
+En lo esencial, habilidades como las señaladas en las cuatro tablas precedentes tienen que ver con el aprendizaje, sin el cual no hay desarrollo del conocimiento. En las siguientes secciones 5.2 y 5.3 abordaremos dos aspectos significativos que intervienen en la construcción y desarrollo de las sociedades del conocimiento en las cuales existen y evolucionen comunidades de aprendizaje: la elaboración de un modelo conceptual de comunidades de aprendizaje a primer nivel de aproximación y la aplicación del proceso de administración del conocimiento para evaluar la aplicabilidad de tal modelo conceptual y proponer cambios y correcciones en un modelo conceptual a segundo nivel de aproximación. Para ello seguiremos el procedimiento mostrado en el Cuadro C5.1, el cual comprende las fases F1, F2 y F3, a las cuales le corresponden las cinco etapas del procedimiento TADIR: **T**raducción, **A**nálisis, **D**iseño, **I**mplementación y **R**evisión.
+
+
+<table>
+<tr>
+<th>
+Cuadro C5.1. Fases y etapas de la elaboración de un modelo conceptual.
+</th>
+</tr>
+<tr>
+<td>
+F1. Descripción del problema por resolver.<br>
+
+**T**raducción: Analizar el enunciado del problema el cual consiste en la elaboración del modelo conceptual de una comunidad de aprendizaje.<br>
+
+Análisis: Explicitar las características de la comunidad de aprendizaje.<br>
+
+F2.  Solución a primer nivel de aproximación.<br>
+
+Diseño: Proponer un diagrama del modelo conceptual de la comunidad de aprendizaje.<br> 
+
+Implementación: Probar que el modelo conceptual es apropiado para resolver el problema.<br>
+
+F3.  Solución a segundo nivel de aproximación.<br>
+
+Revisión: reconsiderar las etapas anteriores y evaluar la aplicabilidad del modelo conceptual.
+</td>
+</tr>
+</table>
 
