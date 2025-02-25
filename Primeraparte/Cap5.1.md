@@ -71,4 +71,22 @@ En la sección final de *Conclusiones*, el reporte de la UNESCO propone tres pil
 
 Si bien es muy importante tener en cuenta distintos tipos de conocimientos, lo práctico es poder crearlos, organizarlos y aplicarlos, para lo cual se requieren cierto tipo de habilidades. El proyecto del North Central Regional Educational Laboratory (NCREL, 2000), destaca cuatro grupos de habilidades para el siglo XXI: 1. Alfabetización para la era digital, 2. Pensamiento inventivo, 3. Comunicación efectiva y Alta productividad (ver Tablas T5.1A a T5.1D).
 
-https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.1.png?raw=true
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.1.png?raw=true"> 
+</p>
+
+**Fuente:** Documento NCREL (2000).
+
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.1.png?raw=true"> 
+</p>
+
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.1.png?raw=true"> 
+</p>
+
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.1.png?raw=true"> 
+</p>
+
+
