@@ -64,10 +64,11 @@ Para mayores detalles acerca de lo que son las sociedades del conocimiento, prop
 10. Del acceso a la participación: hacia sociedades del conocimiento para todos    
 
 En la sección final de *Conclusiones*, el reporte de la UNESCO propone tres pilares sobre los que podrían edificarse auténticas sociedades del conocimiento para todos: 
-    • Primer pilar: una mejor valorización de los conocimientos existentes para luchar contra la brecha cognitiva.
 
-    • Segundo pilar: sociedades del conocimiento más participativas.
-
-    • Tercer pilar: una mejor integración de las políticas del conocimiento.
+- Primer pilar: una mejor valorización de los conocimientos existentes para luchar contra la brecha cognitiva.
+- Segundo pilar: sociedades del conocimiento más participativas.
+- Tercer pilar: una mejor integración de las políticas del conocimiento.
 
 Si bien es muy importante tener en cuenta distintos tipos de conocimientos, lo práctico es poder crearlos, organizarlos y aplicarlos, para lo cual se requieren cierto tipo de habilidades. El proyecto del North Central Regional Educational Laboratory (NCREL, 2000), destaca cuatro grupos de habilidades para el siglo XXI: 1. Alfabetización para la era digital, 2. Pensamiento inventivo, 3. Comunicación efectiva y Alta productividad (ver Tablas T5.1A a T5.1D).
+
+https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.1.png?raw=true
