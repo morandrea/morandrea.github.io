@@ -132,7 +132,7 @@ El procedimiento TADIR es un elemento de orientación en la solución de problem
 Para resolver problemas concretos relativos al desarrollo de comunidades de aprendizaje conectamos cada una de las etapas del TADIR con los principios pedagógico-pragmáticos ($P_1$ a $P_4$) que describen las características de las comunidades de aprendizaje. La siguiente Tabla T5.2 presenta las relaciones entre los elementos que intervienen en la solución de un problema que consistente en la creación del modelo conceptual de una comunidad de aprendizaje (CA).
 
 <p align="center" width="100%">
-    <img width="600" src=""> 
+    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.5.png?raw=true"> 
 </p>
 
 **Fuente:** elaboración propia.
