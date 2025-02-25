@@ -336,31 +336,31 @@ GP3: Además de lo realizado en GP2, generan y aplican conocimiento nuevo para r
 
 ## Referencias
 
-Bittel, L. (1989). The McGraw-Hill 36-Hour Management Course. New York: McGraw-Hill.
+Bittel, L. (1989). *The McGraw-Hill 36-Hour Management Course. New York: McGraw-Hill*.
 
-Davenport, T.H. (1993). Process Innovation, Boston: Harvard Business School Press.
+Davenport, T.H. (1993). *Process Innovation*, Boston: Harvard Business School Press.
 
-Diosdado, P. (2013). Gestión del conocimiento en comunidades de aprendizaje en contextos industriales y educativos Tesis de Doctor en Ciencias de la Administración. Universidad Nacional Autónoma de México. México.
+Diosdado, P. (2013). *Gestión del conocimiento en comunidades de aprendizaje en contextos industriales y educativos* Tesis de Doctor en Ciencias de la Administración. Universidad Nacional Autónoma de México. México.
 
-Edvinsonn, L. y Malone M.S. (1998). El capital intelectual. Cómo identificar y calcular el valor inexplorado de los recursos intangibles de su empresa.  Bogotá: Editorial Norma.
+Edvinsonn, L. y Malone M.S. (1998). *El capital intelectual. Cómo identificar y calcular el valor inexplorado de los recursos intangibles de su empresa*.  Bogotá: Editorial Norma.
 
-Gill, Z. (2001), “Webtank Design”. En: M. J. Smith y G. Salvendy (Eds.). Systems, Social and Internationalization Design Aspects of Human-Computer Interaction. Volume 2 (pp. 292-296). Mahwah, New Jersey: Lawrence Erlbaum Associates.
+Gill, Z. (2001), “Webtank Design”. En: M. J. Smith y G. Salvendy (Eds.). *Systems, Social and Internationalization Design Aspects of Human-Computer Interaction*. Volume 2 (pp. 292-296). Mahwah, New Jersey: Lawrence Erlbaum Associates.
 
-Linn, M.C. y S. Hsi. (2000). Computers, Teacher, Peers: Science learning partners. Mahwah, New Jersey: Lawrence Erlbaum Associates,
+Linn, M.C. y S. Hsi. (2000). *Computers, Teacher, Peers: Science learning partners*. Mahwah, New Jersey: Lawrence Erlbaum Associates,
 
-NCREL (2000). North Central Regional Educational Laboratory. “21-st-Century Skills”: alfabetización en la era digital, pensamiento inventivo, comunicación efectiva y alta productividad. En Gauge® 21st Century Skills: Literacy in the Digital Age 2003 Disponible en: http://www.ncrel.org/engauge/skills/skills.htm. [Consulta marzo 15 de 2004]. 
+NCREL (2000). *North Central Regional Educational Laboratory.* “21-st-Century Skills”: alfabetización en la era digital, pensamiento inventivo, comunicación efectiva y alta productividad. *En Gauge® 21st Century Skills: Literacy in the Digital Age 2003* Disponible en: http://www.ncrel.org/engauge/skills/skills.htm. [Consulta marzo 15 de 2004]. 
 
-Nonaka, I. y Takeuchi, H. (1995). The Knowledge-Creating Company. How japanese Companies Create the Dynamics of Innovation. New Cork. Oxford University Press.
+Nonaka, I. y Takeuchi, H. (1995). *The Knowledge-Creating Company. How japanese Companies Create the Dynamics of Innovation*. New Cork. Oxford University Press.
 
-M. Polanyi (1969). Knowing and Being. University of Chicago Press and (UK) Routledge and Kegan Paul.
+M. Polanyi (1969). *Knowing and Being*. University of Chicago Press and (UK) Routledge and Kegan Paul.
 
-Samiotis, K., Poulymenakou, A. y Zaharias, P. (2001). “Interactive Multimedia Interfaces for Knowledge management and learning Systems: Enabling Self and Work Bases Learning”.   En: M. J. Smith y G. Salvendy (Eds.). Systems, Social and Internationalization Design Aspects of Human-Computer Interaction. Volume 2 (pp. 834-838). Mahwah, New Jersey: Lawrence Erlbaum Associates.
+Samiotis, K., Poulymenakou, A. y Zaharias, P. (2001). “Interactive Multimedia Interfaces for Knowledge management and learning Systems: Enabling Self and Work Bases Learning”.   En: M. J. Smith y G. Salvendy (Eds.). *Systems, Social and Internationalization Design Aspects of Human-Computer Interaction*. Volume 2 (pp. 834-838). Mahwah, New Jersey: Lawrence Erlbaum Associates.
 
-F.W. Taylor (1911). The principles of scientific management. New York: Harper & Brothers publishers.
+F.W. Taylor (1911). *The principles of scientific management*. New York: Harper & Brothers publishers.
 
-UNESCO (2005). Hacia las sociedades del conocimiento: informe mundial de la UNESCO. Accesible en https://unesdoc.unesco.org/ark:/48223/pf0000141908
+UNESCO (2005). *Hacia las sociedades del conocimiento: informe mundial de la UNESCO*. Accesible en https://unesdoc.unesco.org/ark:/48223/pf0000141908
 
-Wilson, B. (1990). Systems; concepts, methodologies and applications.  Chichester: John Wiley.
+Wilson, B. (1990). *Systems; concepts, methodologies and applications*.  Chichester: John Wiley.
 
 
 
