@@ -17,7 +17,7 @@ CO-01.  Estimular a los miembros de la CA para que construyan conocimientos a pa
   </tr>
 </table>
 
-CO-02.  Ayudar a los miembros de la CA para que investiguen personalmente problemas relevantes y revisen con regularidad sus conocimientos.
+CO-02.  Ayudar a los miembros de la CA para que investiguen problemas relevantes y revisen con regularidad sus conocimientos.
 
 <table>
   <tr>
@@ -26,9 +26,9 @@ CO-02.  Ayudar a los miembros de la CA para que investiguen personalmente proble
     <th>Etapa de evolución $E_3$</th>
   </tr>
   <tr>
-    <td>Se investigan problemas triviales, la revisión del conocimiento es nula o forzada.</td>
-    <td>Se investigan y analizan problemas trascendentales para la adquisición de conocimientos significativos, los cuales se revisan casualmente.</td>
-    <td>Los conocimientos se verifican constantemente y se investigan problemas en la frontera del conocimiento.</td>
+    <td>Se investigan problemas triviales: la revisión del conocimiento es nula o forzada.</td>
+    <td>Se investigan y analizan problemas trascendentales para la adquisición de conocimientos significativos: la revisión es eventual.</td>
+    <td>Se investigan problemas en la frontera del conocimiento: la revisión es constante</td>
   </tr>
 </table>
 		
@@ -41,13 +41,13 @@ CO-03.   Apoyar a los miembros de la CA para que participen en procesos de indag
     <th>Etapa de evolución $E_3$</th>
   </tr>
   <tr>
-    <td>Los miembros de la CA se muestran indiferentes en relación con el enriquecimiento de sus conocimientos.</td>
-    <td>Se indaga nuevos conocimientos, pero no se analiza cómo y no se identifica su utilidad.</td>
-    <td>Los conocimientos se enriquecen con la participación de los miembros en investigaciones basadas en qué, cómo y para qué.</td>
+    <td>Se nota una falta de entusiasmo por parte de los miembros de la CA, en relacion con el enriquecimiento de sus conocimientos.</td>
+    <td>Se adquieren nuevos conocimientos, pero sin un análisis de su origen o utilidad.</td>
+    <td>El conocimiento se fortalece cuando los miembros participan en investigaciones que abordan las preguntas fundamentales del qué, cómo y para qué</td>
   </tr>
 </table>
 
-CO-04.    Fomentar la comunicación entre los miembros de la CA para compartir con los demás el conocimiento especializado propio de cada miembro.
+CO-04.    Fomentar la comunicación para que los miembros de la CA compartan su conocimiento especializado, enriqueciendo el aprendizaje colectivo.
 
 <table>
   <tr>
@@ -58,7 +58,7 @@ CO-04.    Fomentar la comunicación entre los miembros de la CA para compartir c
   <tr>
     <td>Nula comunicación y colaboración entre miembros para compartir el conocimiento.</td>
     <td>Los miembros se comunican e intentan colaborar, pero existe confusión y poca organización.</td>
-    <td>La organización entre los miembros resalta y compromete a que compartan el conocimiento.</td>
+    <td>La organización entre los miembros resalta e impulsa a que compartan el conocimiento.</td>
   </tr>
 </table>
 
@@ -79,14 +79,20 @@ CO-05.   Modelar el proceso de construcción del conocimiento en relación con e
   </tr>
 </table>
 
-CO-06.    Apoyar a los miembros de la CA para explicar sus propias ideas.
+CO-06.    Apoyar a los miembros de la CA para que expliquen sus propias ideas.
 
-Etapa de evolución E1
-Etapa de evolución E2
-Etapa de evolución E3
-La explicación de las ideas es  casual y atropellada.
-Las explicaciones son más claras y comienzan a entrelazarse.
-Las explicaciones están bien entrelazadas y se vislumbran nuevos conocimientos.
+<table>
+  <tr>
+    <th>Etapa de evolución $E_1$</th>
+    <th>Etapa de evolución $E_2$</th>
+    <th>Etapa de evolución $E_3$</th>
+ </tr>
+  <tr>
+    <td>La explicación de las ideas es  casual y atropellada.</td>
+<td>Las explicaciones son más claras y comienzan a entrelazarse.</td>
+<td>Las explicaciones están bien entrelazadas y se vislumbran nuevos conocimientos.</td>
+</tr>
+</table>
 
 CO-07.    Proporcionar múltiples representaciones visuales utilizando diversos medios.
 
@@ -103,7 +109,7 @@ CO-07.    Proporcionar múltiples representaciones visuales utilizando diversos 
   </tr>
 </table>
 
-CO-08. 	Promover el registro sistemático del conocimiento adquirido por los diferentes miembros del equipo de trabajo o CA en un estado incipiente.
+CO-08. 	Establecer un proceso sistemático para documentar el conocimiento adquirido por los miembros del equipo o CA desde su inicio.
 
 <table>
   <tr>
@@ -114,7 +120,7 @@ CO-08. 	Promover el registro sistemático del conocimiento adquirido por los dif
   <tr>
     <td>Nulo o escaso registro del conocimiento adquirido.</td>
     <td>El registro es el adecuado, pero no se sabe qué hacer con él.</td>
-    <td>Con los registros que se presentan se planean aplicaciones y generación de nuevo conocimiento.</td>
+    <td>Los registros recopilados facilitan el desarrollo de aplicaciones y la creación de nuevos conocimientos.</td>
   </tr>
 </table>
 
@@ -207,12 +213,12 @@ CO-14.   Comprometer a los miembros de la CA para que sean críticos de la infor
   </tr>
   <tr>
     <td>La información se maneja dogmáticamente.</td>
-    <td>Los miembros de la CA son dubitativos respecto a la información.</td>
-    <td>Una visión crítica de la información conduce a su prueba y constatación.</td>
+    <td>Los miembros de la CA podrían no comprender completamente la información presentada.</td>
+    <td>El análisis crítico de la información facilita su comprobación y confirmación.</td>
   </tr>
 </table>
 
-CO-15.  Promover la participación de los miembros de la CA en actividades que estén orientadas al establecimiento de una cultura de desarrollo permanente.
+CO-15.  Promover la participación de los miembros de la CA en programas que promuevan una cultura de desarrollo permanente.
 
 <table>
   <tr>
@@ -223,7 +229,7 @@ CO-15.  Promover la participación de los miembros de la CA en actividades que e
   <tr>
     <td>No hay participación en actividades de actualización continua.</td>
     <td>La participación en actividades de actualización es esporádica, lo cual limita el desarrollo permanente.</td>
-    <td>Hay actualización y desarrollo de manera continua  y con participación interesada.</td>
+    <td>La actualización y el desarrollo son continuos y cuentan con una participación activa e interesada.</td>
   </tr>
 </table>
 
