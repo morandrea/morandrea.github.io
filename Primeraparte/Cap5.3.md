@@ -49,25 +49,25 @@ A continuación, en la Tabla T5.3 describimos las actividades de transformación
 Para elaborar el modelo conceptual de la CA a un segundo nivel de aproximación, cada una de las tareas (T) que caracterizan a la CA se considera como un subsistema en el cual se indican qué aspectos o productos relativos a cada tarea pueden evaluarse mediante la consideración de cada uno de los factores críticos correspondientes a las tareas en que participan los equipos de trabajo de la CA. Tales factores críticos evalúan las actividades de transformación del conocimiento (ATC) del proceso de transformación del conocimiento indicado en la tabla previa que se aplican a los elementos que a la izquierda describen las componentes de cada una de las tareas (T1 a T4).
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.7.png?raw=true"> 
+    <img width="700" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.7.png?raw=true"> 
 </p>
 
 **Fuente:** elaboración propia
 
 <p align="center" width="100%">
-    <img width="800" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.8.png?raw=true"> 
+    <img width="700" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.8.png?raw=true"> 
 </p>
 
 **Fuente:** elaboración propia
 
 <p align="center" width="100%">
-    <img width="800" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.9.png?raw=true"> 
+    <img width="700" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.9.png?raw=true"> 
 </p>
 
 **Fuente:** elaboración propia
 
 <p align="center" width="100%">
-    <img width="800" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.10.png?raw=true"> 
+    <img width="700" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.10.png?raw=true"> 
 </p>
 
 **Fuente:** elaboración propia
