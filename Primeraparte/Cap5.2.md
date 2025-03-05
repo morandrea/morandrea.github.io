@@ -8,7 +8,7 @@ De acuerdo con Wilson (1990), se requieren tres fases (F1, F2 y F3) para resolve
 
 FASE F1. Describir el problema a resolver: identificación de las características de la comunidad de aprendizaje. Etapas del procedimiento TADIR: Traducción ($P_1$) y Análisis ($P_2$)
 
-FASE F2. Visualizar mediante un diagrama conceptual las relaciones entre las características de la CA y la aplicabilidad de los principios pedagógico-pragmáticos. Esto corresponde a un primer nivel de aproximación el modelo conceptual de la CA que describe las tareas en que participan los correspondientes equipos de trabajo.  Etapa del procedimiento TADIR: Diseño ($P_3$).
+FASE F2. Visualizar mediante un diagrama conceptual las relaciones entre las características de la CA y la aplicabilidad de los principios pedagógico-pragmáticos. Esto corresponde a un primer nivel de aproximación al modelo conceptual de la CA que describe las tareas en que participan los correspondientes equipos de trabajo.  Etapa del procedimiento TADIR: Diseño ($P_3$).
 
 FASE F3. Evaluar la pertinencia y efectividad descriptiva del modelo conceptual de la CA a primer nivel de aproximación mediante la aplicación de las últimas dos etapas del procedimiento TADIR:  Implementación ($P_4$) y Revisión. Esto se hará en la sección 5.3 a partir del análisis de las tareas que caracterizan a la CA cuando se consideren las actividades de transformación del conocimiento que corresponden a un proceso de administración del conocimiento. Esto corresponde a un diagrama del modelo conceptual de la CA a segundo nivel de aproximación. Etapas del procedimiento TADIR: Implementación y Revisión.
 
@@ -120,9 +120,15 @@ La CA está conformada por cuatro equipos de trabajo (ET):
 
 ET1: Equipo de trabajo académico integrado por personal académico a nivel de licenciatura que pertenecen a la academia de ingeniería industrial y al departamento de ciencias básicas de una institución de educación superior tecnológica, la cual forma parte del Sistema de Educación Tecnológica. Son los responsables de impartir los cursos correspondientes a las áreas de ciencias básicas, de ingeniería y de ingeniería industrial.
 
+***
+
 ET2: Equipo en entrenamiento y capacitación formado por 47 trabajadores de una empresa metalmecánica; son supervisores y operadores de línea, jefes de área y auxiliares de mantenimiento. Están inscritos como estudiantes de la carrera de ingeniería industrial y participan en un programa de residencia profesional con el fin de obtener el grado de ingeniero industrial.
 
+***
+
 ET3: Equipo administrativo de la institución educativa integrado por el coordinador general del programa y personal administrativo encargado de dar seguimiento a los procesos de selección, admisión, control escolar, residencia profesional y titulación de los estudiantes inscritos.
+
+***
 
 ET4: Equipo operativo de la empresa industrial integrado por personal de recursos humanos responsable de dar seguimiento a la disponibilidad y desempeño de los trabajadores inscritos en el programa.
 
@@ -136,17 +142,27 @@ T3: Administración del programa para coordinar las actividades académicas y ad
 
 T4: Operación del programa para supervisar la logística requerida por el programa y la disponibilidad de recursos en la empresa industrial participante. Participa el equipo ET4.
 
+***
+
 - **A**nálisis: describir los objetivos del programa y explicitar el proceso de monitoreo que permitirá analizar la evolución de la CA.
 
 Objetivos del programa:
 
 OB1: Formar ingenieros en el área de ingeniería industrial capaces de contribuir en los programas de mejora continua requeridos por la empresa donde trabajan.
 
+***
+
 OB2: Establecer una relación académica-industrial para intercambiar, aplicar y generar conocimiento relacionado con la capacitación de trabajadores como ingenieros industriales.
+
+***
 
 OB3: Identificar los elementos clave que definen la operación de una CA en el contexto académico industrial considerado, con el fin de elaborar un modelo conceptual de tal CA.
 
+***
+
 OB4: Aplicar la gestión del conocimiento para analizar los factores críticos que afectan el desempeño de las tareas en que participan los miembros de la CA, para evaluar y mejorar la descripción del modelo conceptual. 
+
+***
 
 El proceso de monitoreo se refiere a los siguientes tres momentos (M) que caracterizarán la evolución de la CA en relación con la didáctica y el uso de recursos con propósitos educativos:
 
