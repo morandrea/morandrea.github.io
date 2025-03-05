@@ -114,7 +114,7 @@ A continuación, abordamos la elaboración de un modelo conceptual de una comuni
 
 **FASE F1:** Traducción y Análisis.
 
-- **T**raducción: describir los elementos constitutivos de la CA y las actividades de transformación en que participan los miembros de dicha CA. 
+- **T**raducción: describir los elementos constitutivos y las actividades de transformación en que participan los miembros de la CA. 
 
 La CA está conformada por cuatro equipos de trabajo (ET):
 
