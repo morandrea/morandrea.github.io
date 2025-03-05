@@ -26,8 +26,8 @@ INTERNALIZACIÓN: este cuarto proceso (del conocimiento explícito al tácito) s
 
 **FASE 3:** Implementación y Revisión.
 
-- **I**mplementación: Probar que el modelo conceptual es apropiado para explicar el funcionamiento de la CA, lo cual requiere analizar los siguientes factores críticos (FC) relativos al desarrollo de las tareas emprendidas por los miembros de la CA:
-
+- **I**mplementación: Probar que el modelo conceptual es apropiado para explicar el funcionamiento de la CA, lo cual requiere analizar los siguientes factores críticos (FC) relativos al desarrollo de las tareas emprendidas por sus integrantes.
+  
 FC1: De las Fronteras del programa: condiciones de operación de la CA relativas a la infraestructura tecnológica requerida para funcionar, la obtención y administración de recursos y la superestructura cultural que determina actitudes y valores de los miembros de la CA.
 
 FC2: De la Conectividad entre los equipos de trabajo: mecanismos de interacción que promueven la comunicación y la discusión, así como el trabajo colaborativo entre los miembros de la CA.
