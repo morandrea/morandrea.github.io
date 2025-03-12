@@ -1,8 +1,8 @@
 ## 2.3 La inteligencia colectiva según Lévy.
 
-Añadir una introducción sobre los que es la inteligencia colectiva en mis palabras y conectarlo con el propósito del capítulo.
+El trabajo de Pierre Lévy (1956) explora cómo la tecnología y la interconexión transforman la manera en que el conocimiento se genera y comparte. Lévy define la inteligencia colectiva como una forma de inteligencia universalmente distribuida, constantemente realzada, coordinada en tiempo real, y cuyo resultado es la movilización efectiva de las competencias. En esencia, se trata de la capacidad de un grupo para pensar y actuar de manera más inteligente que sus miembros individuales.
 
-Presentar lo que se va a discutir en la sección (resumen).
+En su trabajo destaca el papel crucial de las tecnologías de la información y la comunicación (TIC) en la potenciación de la inteligencia colectiva, y afirma que la inteligencia no reside en un solo lugar, sino que se distribuye entre todos los miembros del grupo, que las redes y las tecnologías permiten la conexión y el intercambio entre individuos y grupos y que se reconoce y valora el conocimiento y la experiencia de cada individuo.
 
 A continuación, presentamos un cuadro con citas textuales del libro de Lévy (2004) referidas al concepto de inteligencia colectiva. El índice [n] señala la página en la cual se encuentra el párrafo citado. El libro de Lévy puede consultarse en la siguiente dirección electrónica http://inteligenciacolectiva.bvsalud.org/public/documents/pdf/es/inteligenciaColectiva.pdf
 
