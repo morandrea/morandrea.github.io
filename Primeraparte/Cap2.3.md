@@ -4,7 +4,7 @@ Añadir una introducción sobre los que es la inteligencia colectiva en mis pala
 
 Presentar lo que se va a discutir en la sección (resumen).
 
-A continuación, presentamos un cuadro con citas textuales del libro de Lévy (2004) referidas al concepto de inteligencia colectiva. El índice [n] señala la página en la cual se encuentra el párrafo citado. El libro de Lévy puede accesarse en la siguiente dirección electrónica http://inteligenciacolectiva.bvsalud.org/public/documents/pdf/es/inteligenciaColectiva.pdf
+A continuación, presentamos un cuadro con citas textuales del libro de Lévy (2004) referidas al concepto de inteligencia colectiva. El índice [n] señala la página en la cual se encuentra el párrafo citado. El libro de Lévy puede consultarse en la siguiente dirección electrónica http://inteligenciacolectiva.bvsalud.org/public/documents/pdf/es/inteligenciaColectiva.pdf
 
 <table>
 <tr>
