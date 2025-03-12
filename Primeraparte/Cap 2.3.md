@@ -14,19 +14,13 @@ Cuadro C2.1. INTELIGENCIA COLECTIVA Y MUNDO VIRTUAL.
 </tr>
 <tr>
 <td>
-    • Las jerarquías burocráticas, las monarquías mediáticas y las redes internacionales de la economía solo movilizan y coordinan muy parcialmente las inteligencias, las experiencias, las competencias, las sabidurías y las imaginaciones de los seres humanos. Por ello, la invención de nuevos procedimientos de pensamiento y de negociación que pueda hacer surgir verdaderas inteligencias colectivas se plantea con particular urgencia. [10]. <br>
-
-    • Recordemos que la inteligencia colectiva es una inteligencia repartida en todas partes, valorizada constantemente, coordinada en tiempo real, que conduce a una movilización efectiva de las competencias. [20].…. <br>
-
-    • La inteligencia colectiva solo comienza con la cultura y aumenta con ella. Ciertamente, pensamos con ideas, con idiomas, con tecnologías cognitivas recibidas de una comunidad.[21]….. <br>
-
-    • Lejos de fusionar las inteligencias individuales en una especie de magma indistinto, la inteligencia colectiva se un proceso de crecimiento, de diferenciación y de reactivación mutua de las singularidades [21]…. <br>
-
-    • El proyecto de la inteligencia colectiva, según se ha visto, implica una tecnología, una economía, una política y una ética. [57] <br>
-
-    • Hasta ahora, sobretodo se ha imaginado y construido mundos virtuales que eran simples simulaciones de universos físicos reales o posibles. [57]….. <br>
-
-    • Esta unión del intelecto y de lo inteligible de un ser colectivo lo hemos llamado su mundo virtual. Es a la vez sociedad de signos animados, órgano de percepción común, memoria cooperativa, espacio de comunicación y de navegación. [68]. 
+- Las jerarquías burocráticas, las monarquías mediáticas y las redes internacionales de la economía solo movilizan y coordinan muy parcialmente las inteligencias, las experiencias, las competencias, las sabidurías y las imaginaciones de los seres humanos. Por ello, la invención de nuevos procedimientos de pensamiento y de negociación que pueda hacer surgir verdaderas inteligencias colectivas se plantea con particular urgencia. [10]. <br>
+- Recordemos que la inteligencia colectiva es una inteligencia repartida en todas partes, valorizada constantemente, coordinada en tiempo real, que conduce a una movilización efectiva de las competencias. [20].…. <br>
+- La inteligencia colectiva solo comienza con la cultura y aumenta con ella. Ciertamente, pensamos con ideas, con idiomas, con tecnologías cognitivas recibidas de una comunidad.[21]….. <br>
+- Lejos de fusionar las inteligencias individuales en una especie de magma indistinto, la inteligencia colectiva se un proceso de crecimiento, de diferenciación y de reactivación mutua de las singularidades [21]…. <br>
+- El proyecto de la inteligencia colectiva, según se ha visto, implica una tecnología, una economía, una política y una ética. [57] <br>
+- Hasta ahora, sobretodo se ha imaginado y construido mundos virtuales que eran simples simulaciones de universos físicos reales o posibles. [57]….. <br>
+- Esta unión del intelecto y de lo inteligible de un ser colectivo lo hemos llamado su mundo virtual. Es a la vez sociedad de signos animados, órgano de percepción común, memoria cooperativa, espacio de comunicación y de navegación. [68]. 
 </td>
 </tr>
 </table>
