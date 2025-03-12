@@ -34,7 +34,7 @@ $D_8$ – TELEMÁTICA: tecnología de la información y las telecomunicaciones q
 
 $D_9$ – ESCENARIO DE TRANSFORMACIÓN: espacios donde colaboran aprendices e instructores para proponer y experimentar actividades de transformación que relacionan y utilizan modelos y teorías para describir, entender y explicar objetos y eventos.
 
-*Acerca del conocimiento.*
+### Acerca del conocimiento.
 
 El conocimiento se genera, adquiere, organiza, comunica, utiliza y transforma; además, puede y debe administrarse para propiciar interconexiones fértiles que generen nuevos conocimientos y hagan efectivas sus aplicaciones. Como el intercambio de materias primas ha cedido el paso a la generación y control de la información, es imperativo construir y manejar conocimientos en forma más eficiente y con mayores alcances. 
 
@@ -46,7 +46,7 @@ Según Polanyi (1969), los seres humanos perciben el mundo integrando equipos so
 
 Para Nonaka y Takeuchi (1995) el conocimiento es “creencia verdadera justificada”. Proponen que la espiral de creación del conocimiento organizacional describe un proceso dinámico de conversión entre diferentes estados que representan conocimientos tácitos (lo que se conoce y comprende, pero no se ha comunicado) y conocimientos explícitos (lo que se expresa con la intención de hacerlo comprensible de una manera clara y convincente). En este modelo el conocimiento es un objeto transferible que parte de lo individual, pasa por ser grupal y organizacional y luego llega a ser interorganizacional. 
 
-*Sociedades del conocimiento y habilidades para el siglo XXI.*
+### Sociedades del conocimiento y habilidades para el siglo XXI.
 
 Ser parte de la llamada sociedad del conocimiento implica una nueva manera de ver y pensar. Entender lo que representa el “saber hacer” está asociado a valorar y cultivar el desarrollo del conocimiento. En caso contrario, de permanecer ajenos a la sociedad del conocimiento serán mayores las diferencias entre los que tienen y los que no tienen, como fiel traducción de la amarga separación entre los que saben y los que no saben.  
 
