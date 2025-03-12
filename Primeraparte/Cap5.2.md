@@ -182,5 +182,5 @@ $M_3$ -	 *Perfeccionamiento*: creación de ambientes virtuales de aprendizaje co
 
 **Fuente:** elaboración propia.
 
-**FASE F3:** Implementación y Revisión. Se describirá a continuación.
+
 
