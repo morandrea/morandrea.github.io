@@ -25,7 +25,7 @@ Cuadro C2.1. INTELIGENCIA COLECTIVA Y MUNDO VIRTUAL.
 </tr>
 </table>
 
-### Las fases de la dinámica de la comunidad inteligente que propone Lévy.
+### Las fases de la dinámica de la comunidad inteligente.
 
 En lo que Lévy denomina “Dinámica de la Ciudad Inteligente” describe las siete fases de la dinámica de la inteligencia colectiva o dinámica de la comunidad inteligente. Cada una de estas siete fases se apoya y extiende las precedentes, aunque también pueden presentarse ciclos entre algunas de estas fases (ver el capítulo 4 de Lévy, pp. 46 a 49, y detalles en los capítulos 3, 7 y 8). A continuación presentamos una descripción de cada una de estas fases enunciadas en forma de verbo y no del sujeto que lo realiza:
 
