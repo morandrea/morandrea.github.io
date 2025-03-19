@@ -17,10 +17,8 @@ En instituciones educativas, la administración del conocimiento aplicada a la e
 Los modelos de administración del conocimiento son formas de representar resultados de la acción y la reflexión, que se dan en complejos contextos socioculturales de comunicación e interacción, tales como los que hacen funcionar las CA. Aquí nos concentraremos en el enfoque de Nonaka y Takeuchi (1995), el cual se basa en las relaciones entre el conocimiento tácito y explícito: entre lo que se comprende, pero no se ha expresado todavía, y lo que ya se ha socializado con fuerza comunicativa. La transición entre estas formas de conocimiento suele corresponder a cuatro procesos de transferencia de conocimientos, los cuales se desarrollan mediante las actividades de transformación del conocimiento (ATC) que se indicarán más adelante en la Tabla 5.4.
 	
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Luis3.png?raw=true"> 
+    <img width="800" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Luis3.png?raw=true"> 
 </p>
-
-
 
 **FASE 3:** Implementación y Revisión.
 
