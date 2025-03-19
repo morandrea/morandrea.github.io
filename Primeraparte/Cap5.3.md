@@ -22,7 +22,9 @@ Los modelos de administración del conocimiento son formas de representar result
 
 **FASE 3:** Implementación y Revisión.
 
-- **I**mplementación: Probar que el modelo conceptual es apropiado para explicar el funcionamiento de la CA, lo cual requiere analizar los siguientes factores críticos (FC) relativos al desarrollo de las tareas emprendidas por sus integrantes.
+<p align="center" width="100%">
+    <img width="800" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/I.png?raw=true"> 
+</p>
   
 FC1: De las Fronteras del programa: condiciones de operación de la CA relativas a la infraestructura tecnológica requerida para funcionar, la obtención y administración de recursos y la superestructura cultural que determina actitudes y valores de los miembros de la CA.
 
@@ -32,7 +34,9 @@ FC3: Del Desempeño de los miembros de la CA: participación en la generación d
 
 FC4: De la Toma de decisiones: aplicar criterios de selección y acción que dan coherencia a los trabajos de la CA y que propician aspectos positivos en la CA tales como: intereses comunes en educación, experiencia como docentes, acuerdo general en los beneficios de la telemática, motivación para aprender y compartir.... Además, se trata de minimizar los factores negativos que la obstaculicen; por ejemplo, los debidos a diferentes visiones del campo profesional, grado de compromiso con el programa, dominio de habilidades para usar productivamente las herramientas telemáticas, comprensión de lo que significa la investigación educativa caracterizada por su rigor, utilidad y pertinencia....
 
-- **R**evisión: relacionar la transferencia del conocimiento con los factores críticos para refinar el modelo conceptual de la CA.
+<p align="center" width="100%">
+    <img width="800" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/R.png?raw=true"> 
+</p>
 
 La Tabla T5.3 presenta la relación entre las actividades de transformación del conocimiento (ATC) de la administración del conocimiento y los factores críticos (FC) para evaluar el funcionamiento de las tareas en la CA.
 
