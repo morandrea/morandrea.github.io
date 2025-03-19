@@ -72,25 +72,25 @@ En la sección final de *Conclusiones*, el reporte de la UNESCO propone tres pil
 Si bien es muy importante tener en cuenta distintos tipos de conocimientos, lo práctico es poder crearlos, organizarlos y aplicarlos, para lo cual se requieren cierto tipo de habilidades. El proyecto del North Central Regional Educational Laboratory (NCREL, 2000), destaca cuatro grupos de habilidades para el siglo XXI: 1. Alfabetización para la era digital, 2. Pensamiento inventivo, 3. Comunicación efectiva y Alta productividad (ver Tablas T5.1A a T5.1D).
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.1.png?raw=true"> 
+    <img width="800" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.1.png?raw=true"> 
 </p>
 
 **Fuente:** Documento NCREL (2000).
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.2.png?raw=true"> 
+    <img width="800" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.2.png?raw=true"> 
 </p>
 
 **Fuente:** Documento NCREL (2000).
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.3.png?raw=true"> 
+    <img width="800" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.3.png?raw=true"> 
 </p>
 
 **Fuente:** Documento NCREL (2000).
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.4.png?raw=true"> 
+    <img width="800" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.4.png?raw=true"> 
 </p>
 
 **Fuente:** Documento NCREL (2000).
@@ -132,7 +132,7 @@ El procedimiento TADIR es un elemento de orientación en la solución de problem
 Para resolver problemas concretos relativos al desarrollo de comunidades de aprendizaje conectamos cada una de las etapas del TADIR con los principios pedagógico-pragmáticos ($P_1$ a $P_4$) que describen las características de las comunidades de aprendizaje. La siguiente Tabla T5.2 presenta las relaciones entre los elementos que intervienen en la solución de un problema que consistente en la creación del modelo conceptual de una comunidad de aprendizaje (CA).
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.5.png?raw=true"> 
+    <img width="800" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.5.png?raw=true"> 
 </p>
 
 **Fuente:** elaboración propia.
