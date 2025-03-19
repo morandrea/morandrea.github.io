@@ -112,7 +112,9 @@ A continuación, abordamos la elaboración de un modelo conceptual de una comuni
 
 **FASE F1:** Traducción y Análisis.
 
-- **T**raducción: describir los elementos constitutivos y las actividades de transformación en que participan los miembros de la CA. 
+<p align="center" width="100%">
+    <img width="800" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/T.png?raw=true"> 
+</p>
 
 La CA está conformada por cuatro equipos de trabajo (ET):
 
@@ -142,7 +144,9 @@ T4: Operación del programa para supervisar la logística requerida por el progr
 
 ***
 
-- **A**nálisis: describir los objetivos del programa y explicitar el proceso de monitoreo que permitirá analizar la evolución de la CA.
+<p align="center" width="100%">
+    <img width="800" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/A.png?raw=true"> 
+</p>
 
 Objetivos del programa:
 
@@ -172,7 +176,9 @@ $M_3$ -	 *Perfeccionamiento*: creación de ambientes virtuales de aprendizaje co
 
 **FASE F2:** Diseño.
 
-- **D**iseño: proponer un modelo conceptual de la CA a primer nivel de aproximación, donde se identifican las tareas en las cuales participan los equipos de trabajo (ET1 a ET4) que participan en el programa.
+<p align="center" width="100%">
+    <img width="800" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/D.png?raw=true"> 
+</p>
 
 <p align="center" width="100%">
     <img width="800" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Img5.6.png?raw=true"> 
