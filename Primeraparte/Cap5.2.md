@@ -7,7 +7,7 @@ Para comprender qué es una CA necesitamos describir su estructura conceptual y 
 De acuerdo con Wilson (1990), se requieren tres fases (F1, F2 y F3) para resolver problemas que conciernen actividades humanas. En nuestro caso, relacionamos cada una de estas fases con las etapas del procedimiento de solución de problemas TADIR. El propósito es construir un modelo conceptual de una comunidad de aprendizaje situada en un contexto tecnológico-educativo. 
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Luis1.png?raw=true"> 
+    <img width="800" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Luis1.png?raw=true"> 
 </p>
 
 Para precisar qué tanto y cómo funciona cada uno de los cuatro principios $P_1$ a $P_4$, proponemos cuatro criterios operativos (CO) que los describen. El funcionamiento de tales criterios operativos podrá ser analizado mediante rúbricas u otros instrumentos de evaluación. El Anexo 5.1. contiene ejemplos de rúbricas que señalan la etapa de evolución en el cumplimiento de los criterios operativos (CO) correspondientes a los cuatro principios pedagógico-pragmáticos
