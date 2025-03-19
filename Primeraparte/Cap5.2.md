@@ -6,11 +6,9 @@ Para comprender qué es una CA necesitamos describir su estructura conceptual y 
 
 De acuerdo con Wilson (1990), se requieren tres fases (F1, F2 y F3) para resolver problemas que conciernen actividades humanas. En nuestro caso, relacionamos cada una de estas fases con las etapas del procedimiento de solución de problemas TADIR. El propósito es construir un modelo conceptual de una comunidad de aprendizaje situada en un contexto tecnológico-educativo. 
 
-FASE F1. Describir el problema a resolver: identificación de las características de la comunidad de aprendizaje. Etapas del procedimiento TADIR: Traducción ($P_1$) y Análisis ($P_2$)
-
-FASE F2. Visualizar mediante un diagrama conceptual las relaciones entre las características de la CA y la aplicabilidad de los principios pedagógico-pragmáticos. Esto corresponde a un primer nivel de aproximación al modelo conceptual de la CA que describe las tareas en que participan los correspondientes equipos de trabajo.  Etapa del procedimiento TADIR: Diseño ($P_3$).
-
-FASE F3. Evaluar la pertinencia y efectividad descriptiva del modelo conceptual de la CA a primer nivel de aproximación mediante la aplicación de las últimas dos etapas del procedimiento TADIR:  Implementación ($P_4$) y Revisión. Esto se hará en la sección 5.3 a partir del análisis de las tareas que caracterizan a la CA cuando se consideren las actividades de transformación del conocimiento que corresponden a un proceso de administración del conocimiento. Esto corresponde a un diagrama del modelo conceptual de la CA a segundo nivel de aproximación. Etapas del procedimiento TADIR: Implementación y Revisión.
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/morandrea/morandrea.github.io/blob/main/Im%C3%A1genes/Luis1.png?raw=true"> 
+</p>
 
 Para precisar qué tanto y cómo funciona cada uno de los cuatro principios $P_1$ a $P_4$, proponemos cuatro criterios operativos (CO) que los describen. El funcionamiento de tales criterios operativos podrá ser analizado mediante rúbricas u otros instrumentos de evaluación. El Anexo 5.1. contiene ejemplos de rúbricas que señalan la etapa de evolución en el cumplimiento de los criterios operativos (CO) correspondientes a los cuatro principios pedagógico-pragmáticos
 
