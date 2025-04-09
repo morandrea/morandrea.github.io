@@ -93,7 +93,7 @@ Variación en la aceleración de la gravedad: $F_G= \frac{Gm_Sm}{(R_E+ h)^2 }=mg
 
 ACCIÓN 2
 
-Velocidad en la órbita circular: $\frac{mv^2}{R_E} =G\frac{m_Em}{(R_E)^2}, $v= \sqrt{[\frac{Gm_E}{R_E}]}$
+Velocidad en la órbita circular: $\frac{mv^2}{R_E} =G\frac{m_Em}{(R_E)^2}$, $v= \sqrt{[\frac{Gm_E}{R_E}]}$
 
 Velocidad de inserción en la órbita circular: $\frac{(m(v_i)^2}{(R_E+ h)}= \frac{Gm_Em}{(R_E+h)^2}$; $v_i ≈ g_0 [1- \frac{h}{2R_E} +⋯]$
 
