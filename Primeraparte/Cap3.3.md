@@ -89,7 +89,7 @@ ACCIÓN 1
 
 Cambio en la velocidad de la nave: $v_f-v_i=-v_0 [∫_{m_i}^{m_f}(\frac{dm}{m})]= v_0 [ln(\frac{m_i}{m_f})]$ 
 
-Variación en la aceleración de la gravedad: $F_G= \frac{Gm_Sm}{(R_E+ h)^2 }=mg$; $g_0=  \frac{Gm_E}{(R_E)^2} ;  $g≈ g_0 [1-\frac{2h}{R_E}+⋯]$
+Variación en la aceleración de la gravedad: $F_G= \frac{Gm_Sm}{(R_E+ h)^2 }=mg$; $g_0=  \frac{Gm_E}{(R_E)^2}$ ;  $g≈ g_0 [1-\frac{2h}{R_E}+⋯]$
 
 ACCIÓN 2
 
